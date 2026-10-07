@@ -1,0 +1,2770 @@
+Unnamed: 0,Product List ,Product Description ,Proposed EMI,State,Branch ,Product,Branch Product,Credit Limit - Good Score,Overdue Limit,Credit Limit - Bad Score,Unnamed: 11,S.No.,Name of the Loan,Loan Type,Tenure Min (months),Interest Rate Min (months),Unnamed: 17,Institution Name,Institution Type,Branch
+,IGL 1,Income Generation Loan,"3,000",BR,Bagaha,CTL,BagahaCTL,250000,5000,250000,,1.0,Auto Loan,Non-Bullet,72.0,7%,,Adhikar Microfinance Ltd (Trfd from Ahmedabad),MFI,
+,IGL 2,Income Generation Loan 2,850,BR,Bagaha,IGL 1,BagahaIGL 1,200000,3000,175000,,2.0,Housing Loan,Non-Bullet,240.0,7%,,ADI CHITRAGUPTA FINANCE LIMITED,MFI,
+,MTL,MTL with IGL 1,"1,600",BR,Bagaha,IGL 2,BagahaIGL 2,250000,3000,200000,,3.0,Property Loan,Non-Bullet,240.0,7%,,Agora Microfinance  India Ltd.(formerly JAGDHAN FINANCE AND INVESTMENTS LIMITED),MFI,
+,MTL R,MTL with IGL 2,"1,600",BR,Bagaha,MTL,BagahaMTL,200000,0,175000,,4.0,Loan against Shares/Securities,Non-Bullet,12.0,12%,,AJAGAR FINANCE PRIVATE LIMITED,MFI,
+,CTL,Cross Sell Loan,"1,200",BR,Bagaha,MTL R,BagahaMTL R,250000,0,200000,,5.0,Personal Loan,Non-Bullet,36.0,10%,,ALTURA FINANCIAL SERVICES LIMITED,MFI,
+,,,,BR,Baheri,CTL,BaheriCTL,250000,5000,250000,,6.0,Consumer Loan,Non-Bullet,12.0,10%,,Anik Financial Services Pvt. Ltd.,MFI,
+S. No.,States,CODE,,BR,Baheri,IGL 1,BaheriIGL 1,200000,3000,175000,,7.0,Gold Loan,Non-Bullet,12.0,9%,,ANNAPURNA FINANCE PRIVATE LIMITED.,MFI,
+1,MAHARASHTRA,MH,,BR,Baheri,IGL 2,BaheriIGL 2,250000,3000,200000,,8.0,Education Loan,Non-Bullet,60.0,8%,,Arohan Financial Services Limited,MFI,
+2,KARNATAKA,KA,,BR,Baheri,MTL,BaheriMTL,200000,0,175000,,9.0,Loan to Professional,Non-Bullet,53.0,12%,,Arth Micro Finance (Private) Ltd,MFI,
+3,BIHAR,BR,,BR,Baheri,MTL R,BaheriMTL R,250000,0,200000,,10.0,Credit Card,Non-Bullet,12.0,20%,,ASA INTERNATIONAL INDIA MICROFINANCE LIMITED,MFI,
+4,ODISHA,OD,,BR,Balia,CTL,BaliaCTL,250000,5000,250000,,11.0,Lease,Non-Bullet,60.0,18%,,ASIRVAD MICRO FINANCE LIMITED,MFI,
+5,JHARKHAND,JH,,BR,Balia,IGL 1,BaliaIGL 1,200000,3000,175000,,12.0,Overdraft,Non-Bullet,12.0,12%,,Asomi Finance Private Ltd.,MFI,
+6,CHHATTISGARH,CG,,BR,Balia,IGL 2,BaliaIGL 2,250000,3000,200000,,13.0,Two-wheeler Loan,Non-Bullet,36.0,10%,,Avanti Microfinance Private Limited,MFI,
+7,UTTAR PRADESH,UP,,BR,Balia,MTL,BaliaMTL,200000,0,175000,,14.0,Non-Funded Credit Facility,Non-Bullet,12.0,10%,,AVIRAL FINANCE PRIVATE LIMITED,MFI,
+8,Madhya Pradesh,MP,,BR,Balia,MTL R,BaliaMTL R,250000,0,200000,,15.0,Loan Against Bank Deposits,Non-Bullet,24.0,9%,,BELSTAR MICROFINANCE LIMITED,MFI,
+9,Tamil Nadu,TN,,BR,Barauli,CTL,BarauliCTL,250000,5000,250000,,16.0,Fleet Card,Non-Bullet,60.0,12%,,Blue Horizon Investments Limited,MFI,
+10,Haryana,HR,,BR,Barauli,IGL 1,BarauliIGL 1,200000,3000,175000,,17.0,Commercial Vehicle Loan,Non-Bullet,84.0,10%,,BWDA FINANCE LIMITED,MFI,
+11,RAJASTHAN,RJ,,BR,Barauli,MTL,BarauliMTL,200000,0,175000,,18.0,Telco - Wireless (For Future Use),Non-Bullet,0.0,0%,,Capital Trust Microfinance Private Limited,MFI,
+12,Tamilnadu MT,TN_MT,,BR,Barauli,MTL R,BarauliMTL R,250000,0,200000,,19.0,Telco - Broadband (For Future Use),Non-Bullet,0.0,0%,,CEEJAY MICROFIN LIMITED,MFI,
+,,,,BR,Bhorey,CTL,BhoreyCTL,250000,5000,250000,,20.0,Telco - Landline (For Future Use),Non-Bullet,0.0,0%,,Centrum Microcredit Limited (Old Name: Centrum Microcredit Private Limited),MFI,
+,,,,BR,Bhorey,IGL 1,BhoreyIGL 1,200000,3000,175000,,21.0,Seller Financing,Non-Bullet,0.0,0%,,Chaitanya India Fin Credit Private Limited,MFI,
+,,,,BR,Bhorey,IGL 2,BhoreyIGL 2,250000,3000,200000,,22.0,GECL Loan Secured,Non-Bullet,42.0,8.50%,,CreditAccess Grameen Limited,MFI,
+,,,,BR,Bhorey,MTL,BhoreyMTL,200000,0,175000,,23.0,GECL Loan Unsecured,Non-Bullet,36.0,9%,,Destiny Finco (P) Ltd,MFI,
+,,,,BR,Bhorey,MTL R,BhoreyMTL R,250000,0,200000,,24.0,Secured Credit Card,Non-Bullet,12.0,20%,,Digamber Capfin Ltd.,MFI,
+,,,,BR,Bichhiya,IGL 2,BichhiyaIGL 2,250000,3000,200000,,25.0,Used Car Loan,Non-Bullet,42.0,10%,,"Fino Finance Pvt Limited (Previously Intrepid Finance & Leasing Pvt. Ltd,)",MFI,
+,,,,BR,Bihariganj,IGL 1,BihariganjIGL 1,200000,3000,175000,,26.0,Construction Equipment Loan,Non-Bullet,48.0,12%,,FUSION MICROFINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Bihariganj,MTL,BihariganjMTL,200000,0,175000,,27.0,Tractor Loan,Non-Bullet,84.0,10%,,G U FINANCIAL SERVICES PRIVATE LIMITED.,MFI,
+,,,,BR,Chakia,CTL,ChakiaCTL,250000,5000,250000,,28.0,Corporate Credit Card,Non-Bullet,12.0,20%,,Grameen Development & Finance Private Limited,MFI,
+,,,,BR,Chakia,IGL 1,ChakiaIGL 1,200000,3000,175000,,29.0,Kisan Credit Card,Non-Bullet,60.0,7%,,GRAMEEN SHAKTI MICROFINANCE SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Chakia,IGL 2,ChakiaIGL 2,250000,3000,200000,,30.0,Loan on Credit Card,Non-Bullet,36.0,18%,,Growing Opportunity Finance(India) Pvt Ltd,MFI,
+,,,,BR,Chakia,MTL,ChakiaMTL,200000,0,175000,,31.0,Prime Minister Jaan Dhan Yojana - Overdraft,Non-Bullet,36.0,13%,,Hindusthan Microfinance Pvt. Ltd.-MFI,MFI,
+,,,,BR,Chakia,MTL R,ChakiaMTL R,250000,0,200000,,32.0,Mudra Loans - Shishu / Kishor / Tarun,Non-Bullet,42.0,10%,,HUMANA FINANCIAL SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Chandi,CTL,ChandiCTL,250000,5000,250000,,33.0,MicroFinance Business Loan,Non-Bullet,60.0,15%,,Idf Financial Services Private Limited,MFI,
+,,,,BR,Chandi,IGL 1,ChandiIGL 1,200000,3000,175000,,34.0,MicroFinance Personal Loan,Non-Bullet,24.0,15%,,INDITRADE MICROFINANCE LIMITED,MFI,
+,,,,BR,Chandi,MTL,ChandiMTL,200000,0,175000,,35.0,MicroFinance Housing Loan,Non-Bullet,36.0,12%,,JAGARAN MICROFIN PRIVATE LIMITED  (Formerly S B T Consultants (P) Ltd),MFI,
+,,,,BR,Chhapra,IGL 1,ChhapraIGL 1,200000,3000,175000,,36.0,MicroFinance Others,Non-Bullet,36.0,15%,,JANAKALYAN FINANCIAL SERVICES  PRIVATE LIMITED,MFI,
+,,,,BR,Chhapra,MTL,ChhapraMTL,200000,0,175000,,37.0,Pradhan Mantri Awas Yojana - Credit Link Subsidy Scheme MAY CLSS,Non-Bullet,120.0,8%,,Janashree Microfin Limited,MFI,
+,,,,BR,Chhatapur,CTL,ChhatapurCTL,250000,5000,250000,,38.0,P2P Personal Loan,Non-Bullet,12.0,25%,,KIARA MICROCREDIT PRIVATE LIMITED,MFI,
+,,,,BR,Chhatapur,IGL 1,ChhatapurIGL 1,200000,3000,175000,,39.0,P2P Auto Loan,Non-Bullet,0.0,0%,,LIGHT MICRO FINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Chhatapur,IGL 2,ChhatapurIGL 2,250000,3000,200000,,40.0,P2P Education Loan,Non-Bullet,0.0,0%,,M POWER MICRO FINANCE PVT LTD,MFI,
+,,,,BR,Chhatapur,MTL,ChhatapurMTL,200000,0,175000,,41.0,Business Loan - Secured,Non-Bullet,60.0,15%,,MADURA MICRO FINANCE LIMITED,MFI,
+,,,,BR,Chhatapur,MTL R,ChhatapurMTL R,250000,0,200000,,42.0,Business Loan,Non-Bullet,60.0,18%,,MAGALIR MICRO CAPITAL PRIVATE LIMITED,MFI,
+,,,,BR,Dhamdaha,CTL,DhamdahaCTL,250000,5000,250000,,43.0,Business Loan - Priority Sector - Small Business,Non-Bullet,60.0,16%,,MAGENTA FINANCE SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Dhamdaha,IGL 1,DhamdahaIGL 1,200000,3000,175000,,44.0,Business Loan - Priority Sector - Agriculture,Non-Bullet,36.0,10%,,Margdarshak Financial services Limited,MFI,
+,,,,BR,Dhamdaha,IGL 2,DhamdahaIGL 2,250000,3000,200000,,45.0,Business Loan - Priority Sector - Others,Non-Bullet,60.0,10%,,MIDLAND MICROFIN LIMITED,MFI,
+,,,,BR,Dhamdaha,MTL,DhamdahaMTL,200000,0,175000,,46.0,Business Non-Funded Credit Facility,Non-Bullet,24.0,15%,,MITRATA INCLUSIVE FINANCIAL SERVICES PVT. LTD.,MFI,
+,,,,BR,Dhamdaha,MTL R,DhamdahaMTL R,250000,0,200000,,47.0,Business Non-Funded Credit Facility - Priority Sector - Small Business,Non-Bullet,24.0,10%,,MSM MICROFINANCE LIMITED,MFI,
+,,,,BR,Dhamdha,IGL 1,DhamdhaIGL 1,200000,3000,175000,,48.0,Business Non-Funded Credit Facility - Priority Sector - Agriculture,Non-Bullet,108.0,10%,,Muthoot Microfin Ltd (formerly known as Panchratna Securities Limited)_MFI,MFI,
+,,,,BR,Dhamdha,MTL,DhamdhaMTL,200000,0,175000,,49.0,Business Non-Funded Credit Facility - Priority Sector - Other,Non-Bullet,60.0,10%,,NABFINS LIMITED  (Earlier known as Nabard Financial Services Limited),MFI,
+,,,,BR,Dholi,CTL,DholiCTL,250000,5000,250000,,50.0,Business Loan Against Bank Deposits,Non-Bullet,24.0,10%,,NAMRA FINANCE LIMITED,MFI,
+,,,,BR,Dholi,IGL 1,DholiIGL 1,200000,3000,175000,,51.0,Business Loan - Unsecured,Non-Bullet,60.0,15%,,Navachetana Microfin Services Private Limited,MFI,
+,,,,BR,Dholi,IGL 2,DholiIGL 2,250000,3000,200000,,53.0,Other,Non-Bullet,36.0,11%,,NEED LIVELIHOOD MICROFINANCE PRIVAT LIMITED,MFI,
+,,,,BR,Dholi,MTL,DholiMTL,200000,0,175000,,54.0,Priority Sector- Gold Loan [Secured],Non-Bullet,12.0,10%,,Nightingale Finvest Pvt. Ltd.,MFI,
+,,,,BR,Dholi,MTL R,DholiMTL R,250000,0,200000,,55.0,Temporary Overdraft [Unsecured],Non-Bullet,12.0,12%,,PAHAL FINANCIAL SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Forbesganj,IGL 1,ForbesganjIGL 1,200000,3000,175000,,56.0,Short Term Personal Loan [Unsecured],Non-Bullet,24.0,15%,,PALMA DEVELOPMENT FINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Forbesganj,MTL,ForbesganjMTL,200000,0,175000,,57.0,Business Loan - General,Non-Bullet,60.0,10%,,PRAYAS FINANCIAL SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Gogri Jamalpur,CTL,Gogri JamalpurCTL,250000,5000,250000,,58.0,Business Loan - Priority Sector- Small Business,Non-Bullet,60.0,16%,,PRAYATNA MICROFINANCE LIMITED,MFI,
+,,,,BR,Gogri Jamalpur,IGL 1,Gogri JamalpurIGL 1,200000,3000,175000,,59.0,Business Loan - Priority Sector- Agriculture,Non-Bullet,36.0,10%,,Pujan Investment & Finance Private Limited [Formerly; Chauhan Investment & Finance Private Limited],MFI,
+,,,,BR,Gogri Jamalpur,MTL,Gogri JamalpurMTL,200000,0,175000,,60.0,Business Loan - Priority Sector- Others,Non-Bullet,60.0,10%,,REPCO MICRO FINANCE LIMITED,MFI,
+,,,,BR,Jamui,CTL,JamuiCTL,250000,5000,250000,,61.0,Auto Loan (Personal),Non-Bullet,72.0,7%,,RORS Finance Private Limited (Formerly known as Pace Finance Private Limited),MFI,
+,,,,BR,Jamui,IGL 1,JamuiIGL 1,200000,3000,175000,,62.0,Microfinance - Others,Non-Bullet,36.0,15%,,S V Creditline Limited,MFI,
+,,,,BR,Jamui,MTL,JamuiMTL,200000,0,175000,,63.0,Priority Sector - Gold Loan,Non-Bullet,12.0,10%,,S.M.I.L.E MICRO FINANCE LIMITED,MFI,
+,,,,BR,Jamui,MTL R,JamuiMTL R,250000,0,200000,,64.0,Short Term Personal Loan,Non-Bullet,24.0,15%,,SAHAYOG MICROFINANCE LIMITED,MFI,
+,,,,BR,Kanti,CTL,KantiCTL,250000,5000,250000,,65.0,MicroFinance - Business Loan,Non-Bullet,60.0,15%,,Saija Finance Private Limited,MFI,
+,,,,BR,Kanti,IGL 1,KantiIGL 1,200000,3000,175000,,67.0,MicroFinance - Personal Loan,Non-Bullet,24.0,15%,,Samasta Microfinance Limited,MFI,
+,,,,BR,Kanti,IGL 2,KantiIGL 2,250000,3000,200000,,68.0,MicroFinance - Housing Loan,Non-Bullet,36.0,12%,,Samavesh Finserve Private Limited,MFI,
+,,,,BR,Kanti,MTL,KantiMTL,200000,0,175000,,69.0,Loan Against Shares / Securities,Non-Bullet,12.0,12%,,SAMBANDH FINSERVE PRIVATE LIMITED,MFI,
+,,,,BR,Kanti,MTL R,KantiMTL R,250000,0,200000,,70.0,Temporary Overdraft,Non-Bullet,12.0,12%,,Sarala Development & Microfinance Private Limited,MFI,
+,,,,BR,Khagaria,CTL,KhagariaCTL,250000,5000,250000,,71.0,Business Non-Funded Credit Facility - Priority Sector - Others,Non-Bullet,60.0,10%,,Sarwadi Finance Private Limited,MFI,
+,,,,BR,Khagaria,IGL 1,KhagariaIGL 1,200000,3000,175000,,72.0,L&T Finance,Non-Bullet,52.0,21%,,Satin Creditcare Network Limited,MFI,
+,,,,BR,Khagaria,MTL,KhagariaMTL,200000,0,175000,,73.0,Business Non-Funded Credit Facility - General,Non-Bullet,24.0,15%,,Satra Development Finance Private Limited,MFI,
+,,,,BR,Khagaria,MTL R,KhagariaMTL R,250000,0,200000,,74.0,Debit Card,Non-Bullet,12.0,25%,,SATYA MICROCAPITAL LIMITED,MFI,
+,,,,BR,Laheriasarai,CTL,LaheriasaraiCTL,250000,5000,250000,,75.0,Leasing,Non-Bullet,60.0,18%,,SAVE MICROFINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Laheriasarai,IGL 1,LaheriasaraiIGL 1,200000,3000,175000,,76.0,Microfinance - Personal Loan,Non-Bullet,24.0,0.15,,Share Microfin Ltd,MFI,
+,,,,BR,Laheriasarai,IGL 2,LaheriasaraiIGL 2,250000,3000,200000,,77.0,Microfinance - Personal Loan,Non-Bullet,24.0,0.15,,SHIKHAR MICROFINANACAE PRIVATE LIMITED,MFI,
+,,,,BR,Laheriasarai,MTL,LaheriasaraiMTL,200000,0,175000,,78.0,Microfinance - Housing Loan,Non-Bullet,36.0,0.12,,SHREE MARIKAMBA MICRO FINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Laheriasarai,MTL R,LaheriasaraiMTL R,250000,0,200000,,79.0,Two-Wheeler Loan,Non-Bullet,36.0,0.15,,Shroff Capital & Finance Pvt. Ltd.,MFI,
+,,,,BR,Lakhisarai,CTL,LakhisaraiCTL,250000,5000,250000,,80.0,Microfinance - Business Loan,Non-Bullet,60.0,0.15,,Sindhuja Microcredit Private Limited,MFI,
+,,,,BR,Lakhisarai,IGL 1,LakhisaraiIGL 1,200000,3000,175000,,,,,,,,Sonata Finance Private Limited,MFI,
+,,,,BR,Lakhisarai,MTL,LakhisaraiMTL,200000,0,175000,,,,,,,,South India Finvest Private Limited,MFI,
+,,,,BR,Lakhisarai,MTL R,LakhisaraiMTL R,250000,0,200000,,,,,,,,Spandana Sphoorty  Financial Ltd.,MFI,
+,,,,BR,Madhepura,CTL,MadhepuraCTL,250000,5000,250000,,,,,,,,SVAMAAN FINANCIAL SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Madhepura,IGL 1,MadhepuraIGL 1,200000,3000,175000,,,,,,,,Svasti Micro Finance Pvt Ltd,MFI,
+,,,,BR,Madhepura,MTL,MadhepuraMTL,200000,0,175000,,,,,,,,SVATANTRA MICROFIN PRIVATE LIMITED,MFI,
+,,,,BR,Mahnar,CTL,MahnarCTL,250000,5000,250000,,,,,,,,UNACCO FINANCIAL SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Mahnar,IGL 1,MahnarIGL 1,200000,3000,175000,,,,,,,,Unnati Microfin Private Limited (Formerly Shree Om Credit Co. Pvt. Ltd.),MFI,
+,,,,BR,Mahnar,IGL 2,MahnarIGL 2,250000,3000,200000,,,,,,,,UTTRAYAN FINANCIAL SERVICES PRIVATE LIMITED,MFI,
+,,,,BR,Mahnar,MTL,MahnarMTL,200000,0,175000,,,,,,,,VALAR ADITI SOCIAL FINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Mahnar,MTL R,MahnarMTL R,250000,0,200000,,,,,,,,VARAM CAPITAL PRIVATE LIMITED,MFI,
+,,,,BR,Mahua,CTL,MahuaCTL,250000,5000,250000,,,,,,,,VAYA Finserv Private Limied,MFI,
+,,,,BR,Mahua,IGL 1,MahuaIGL 1,200000,3000,175000,,,,,,,,VECTOR FINANCE PRIVATE LIMITED,MFI,
+,,,,BR,Mahua,MTL,MahuaMTL,200000,0,175000,,,,,,,,VEDIKA CREDIT CAPITAL LIMITED,MFI,
+,,,,BR,Majorganj,CTL,MajorganjCTL,250000,5000,250000,,,,,,,,Village Financial Services Limited,MFI,
+,,,,BR,Majorganj,IGL 1,MajorganjIGL 1,200000,3000,175000,,,,,,,,VIRUTCHAM MICROFINANCE LIMITED,MFI,
+,,,,BR,Majorganj,IGL 2,MajorganjIGL 2,250000,3000,200000,,,,,,,,VIVARDHANA MICROFINANCE LTD,MFI,
+,,,,BR,Majorganj,MTL,MajorganjMTL,200000,0,175000,,,,,,,,YVU FINANCIAL SERVICES PVT.LTD.,MFI,
+,,,,BR,Majorganj,MTL R,MajorganjMTL R,250000,0,200000,,,,,,,,Satin Credit Care Network Ltd,MFI,
+,,,,BR,Marhaura,IGL 1,MarhauraIGL 1,200000,3000,175000,,,,,,,,Fusion Micro Finance Limited,MFI,
+,,,,BR,Marhaura,MTL,MarhauraMTL,200000,0,175000,,,,,,,,Asirvad Microfinance Limited,MFI,
+,,,,BR,Motihari,CTL,MotihariCTL,250000,5000,250000,,,,,,,,Spandana Sphoorty Financial Ltd,MFI,
+,,,,BR,Motihari,IGL 1,MotihariIGL 1,200000,3000,175000,,,,,,,,Sonata Finance Pvt Ltd,MFI,
+,,,,BR,Motihari,IGL 2,MotihariIGL 2,250000,3000,200000,,,,,,,,Annapurna Finance Private Limited,MFI,
+,,,,BR,Motihari,MTL,MotihariMTL,200000,0,175000,,,,,,,,Arohan Financial Service limited,MFI,
+,,,,BR,Motihari,MTL R,MotihariMTL R,250000,0,200000,,,,,,,,Chaitanya India Fin Credit Pvt Ltd,MFI,
+,,,,BR,Narkatiaganj,CTL,NarkatiaganjCTL,250000,5000,250000,,,,,,,,Pahal Financial Service Pvt Ltd.,MFI,
+,,,,BR,Narkatiaganj,IGL 1,NarkatiaganjIGL 1,200000,3000,175000,,,,,,,,Centrum Microcredit Limited,MFI,
+,,,,BR,Narkatiaganj,IGL 2,NarkatiaganjIGL 2,250000,3000,200000,,,,,,,,Share Microfin Limited,MFI,
+,,,,BR,Narkatiaganj,MTL,NarkatiaganjMTL,200000,0,175000,,,,,,,,Belstar Investment & Fin,MFI,
+,,,,BR,Narkatiaganj,MTL R,NarkatiaganjMTL R,250000,0,200000,,,,,,,,Muthoot Microfin Limited,MFI,
+,,,,BR,Pakribarawan,CTL,PakribarawanCTL,250000,5000,250000,,,,,,,,Nabard Financial Services Ltd,MFI,
+,,,,BR,Pakribarawan,IGL 1,PakribarawanIGL 1,200000,3000,175000,,,,,,,,Smile Microfinance Limited,MFI,
+,,,,BR,Pakribarawan,MTL,PakribarawanMTL,200000,0,175000,,,,,,,,Vaya Finserv Private Limited,MFI,
+,,,,BR,Patori,IGL 1,PatoriIGL 1,200000,3000,175000,,,,,,,,Prayatna Microfinance Limited ,MFI,
+,,,,BR,Patori,MTL,PatoriMTL,200000,0,175000,,,,,,,,Svasti Microfinance Private Limited,MFI,
+,,,,BR,Phulparas,CTL,PhulparasCTL,250000,5000,250000,,,,,,,,Fino Finance Pvt Ltd,MFI,
+,,,,BR,Phulparas,IGL 1,PhulparasIGL 1,200000,3000,175000,,,,,,,,CAPITAL TRUST LIMITED,MFI,
+,,,,BR,Phulparas,IGL 2,PhulparasIGL 2,250000,3000,200000,,,,,,,,Muthoot Fincorp Limited,MFI,
+,,,,BR,Phulparas,MTL,PhulparasMTL,200000,0,175000,,,,,,,,Asmitha Microfin Limited,MFI,
+,,,,BR,Phulparas,MTL R,PhulparasMTL R,250000,0,200000,,,,,,,,Village Financial Services Pvt Ltd,MFI,
+,,,,BR,Raghunathpur,CTL,RaghunathpurCTL,250000,5000,250000,,,,,,,,AFI Nidhi Limited,NBFC,
+,,,,BR,Raghunathpur,IGL 1,RaghunathpurIGL 1,200000,3000,175000,,,,,,,,Ajiwika Financial Services Private Limited,NBFC,
+,,,,BR,Raghunathpur,MTL,RaghunathpurMTL,200000,0,175000,,,,,,,,Swaws Credit Corporation India(P) Ltd,NBFC,
+,,,,BR,Raghunathpur,MTL R,RaghunathpurMTL R,250000,0,200000,,,,,,,,Usha Financial Services Pvt Ltd,NBFC,
+,,,,BR,Raniganj,IGL 1,RaniganjIGL 1,200000,3000,175000,,,,,,,,FINANCE,NBFC,
+,,,,BR,Raniganj,MTL,RaniganjMTL,200000,0,175000,,,,,,,,BSS Microfinance Limited,Bank,
+,,,,BR,Raxaul,IGL 1,RaxaulIGL 1,200000,3000,175000,,,,,,,,Catholic Syrian Bank,Bank,
+,,,,BR,Raxaul,MTL,RaxaulMTL,200000,0,175000,,,,,,,,Subhlakshmi Finance Pvt Ltd,NBFC,
+,,,,BR,Raxual,IGL 1,RaxualIGL 1,200000,3000,175000,,,,,,,,Cashpor Microcredit,NGO,
+,,,,BR,Raxual,MTL,RaxualMTL,200000,0,175000,,,,,,,,Anik Financial Services Pvt Ltd,MFI,
+,,,,BR,Rosera,CTL,RoseraCTL,250000,5000,250000,,,,,,,,S V Creditline Private Limited,MFI,
+,,,,BR,Rosera,IGL 1,RoseraIGL 1,200000,3000,175000,,,,,,,,Sakhi Samudaya Kosh,MFI,
+,,,,BR,Rosera,IGL 2,RoseraIGL 2,250000,3000,200000,,,,,,,,Sambandh Microfinance Pvt. Ltd,MFI,
+,,,,BR,Rosera,MTL,RoseraMTL,200000,0,175000,,,,,,,,Sanghamitra Rural Financial Services,MFI,
+,,,,BR,Rosera,MTL R,RoseraMTL R,250000,0,200000,,,,,,,,Sarala Development and  Microfinance Private Limited,MFI,
+,,,,BR,Runnisaidpur,CTL,RunnisaidpurCTL,250000,5000,250000,,,,,,,,Sarathifc Nidhi Limited,MFI,
+,,,,BR,Runnisaidpur,IGL 1,RunnisaidpurIGL 1,200000,3000,175000,,,,,,,,Unacco Financial Services Pvt. Ltd.,MFI,
+,,,,BR,Runnisaidpur,IGL 2,RunnisaidpurIGL 2,250000,3000,200000,,,,,,,,L & T FINANCE,NBFC,
+,,,,BR,Runnisaidpur,MTL,RunnisaidpurMTL,200000,0,175000,,,,,,,,Fullerton India Credit Company Ltd.,NBFC,
+,,,,BR,Runnisaidpur,MTL R,RunnisaidpurMTL R,250000,0,200000,,,,,,,,Arman Financial Services Ltd. ,NBFC,
+,,,,BR,Saharsa,CTL,SaharsaCTL,250000,5000,250000,,,,,,,,Fortune Credit Capital Limited,NBFC,
+,,,,BR,Saharsa,IGL 1,SaharsaIGL 1,200000,3000,175000,,,,,,,,Equitas Micro Finance India P Ltd,Bank,
+,,,,BR,Saharsa,IGL 2,SaharsaIGL 2,250000,3000,200000,,,,,,,,Fedbank Financial Services Limited,Bank,
+,,,,BR,Saharsa,MTL,SaharsaMTL,200000,0,175000,,,,,,,,RCL CF,NBFC,
+,,,,BR,Saharsa,MTL R,SaharsaMTL R,250000,0,200000,,,,,,,,Fincare Small Finance Bank Limited,SFB,
+,,,,BR,Sakri,CTL,SakriCTL,250000,5000,250000,,,,,,,,Indusind Bank Limited,Bank,
+,,,,BR,Sakri,IGL 1,SakriIGL 1,200000,3000,175000,,,,,,,,Suryoday Small Finance Bank Limited,SFB,
+,,,,BR,Sakri,IGL 2,SakriIGL 2,250000,3000,200000,,,,,,,,Yes Bank,Bank,
+,,,,BR,Sakri,MTL,SakriMTL,200000,0,175000,,,,,,,,RBL Bank Limited,Bank,
+,,,,BR,Sakri,MTL R,SakriMTL R,250000,0,200000,,,,,,,,,Null,
+,,,,BR,Samastipur,CTL,SamastipurCTL,250000,5000,250000,,,,,,,,ESAF Small Finance Bank LTD,SFB,
+,,,,BR,Samastipur,IGL 1,SamastipurIGL 1,200000,3000,175000,,,,,,,,Pudhuaaru Financial Services Private Limited ,MFI,
+,,,,BR,Samastipur,IGL 2,SamastipurIGL 2,250000,3000,200000,,,,,,,,Ujjivan Small Finance Bank Ltd,SFB,
+,,,,BR,Samastipur,MTL,SamastipurMTL,200000,0,175000,,,,,,,,IDFC Bank Limited,Bank,
+,,,,BR,Samastipur,MTL R,SamastipurMTL R,250000,0,200000,,,,,,,,Development Credit Bank Ltd,Bank,
+,,,,BR,Sheohar,CTL,SheoharCTL,250000,5000,250000,,,,,,,,Bandhan Bank Limited,Bank,
+,,,,BR,Sheohar,IGL 1,SheoharIGL 1,200000,3000,175000,,,,,,,,Axis Bank,Bank,
+,,,,BR,Sheohar,IGL 2,SheoharIGL 2,250000,3000,200000,,,,,,,,HDFC Bank Limited,Bank,
+,,,,BR,Sheohar,MTL,SheoharMTL,200000,0,175000,,,,,,,,Utkarsh Small Finance Bank Limited,Bank,
+,,,,BR,Sheohar,MTL R,SheoharMTL R,250000,0,200000,,,,,,,,Jana Small Finance Bank Ltd,SFB,
+,,,,BR,Sonbarsa,CTL,SonbarsaCTL,250000,5000,250000,,,,,,,,Ananya Finance for Inclusive Growth Pvt. Ltd.,NBFC,
+,,,,BR,Sonbarsa,IGL 1,SonbarsaIGL 1,200000,3000,175000,,,,,,,,IDBI Bank,Bank,
+,,,,BR,Sonbarsa,IGL 2,SonbarsaIGL 2,250000,3000,200000,,,,,,,,Equitas Small Finance Bank Limited,SFB,
+,,,,BR,Sonbarsa,MTL,SonbarsaMTL,200000,0,175000,,,,,,,,Union Bank of India,Bank,
+,,,,BR,Sonbarsa,MTL R,SonbarsaMTL R,250000,0,200000,,,,,,,,Aye Finance Pvt Ltd,NBFC,
+,,,,BR,Surajgarha,CTL,SurajgarhaCTL,250000,5000,250000,,,,,,,,Future Financial Services Limited,MFI,
+,,,,BR,Surajgarha,IGL 1,SurajgarhaIGL 1,200000,3000,175000,,,,,,,,Navchetna Microfin Services Private Limited,MFI,
+,,,,BR,Surajgarha,MTL,SurajgarhaMTL,200000,0,175000,,,,,,,,NEED Livelihood Microfinance Pvt Ltd.,MFI,
+,,,,BR,Surajgarha,MTL R,SurajgarhaMTL R,250000,0,200000,,,,,,,,Criss Financial Holdings Limited,NBFC,
+,,,,BR,Teghra,CTL,TeghraCTL,250000,5000,250000,,,,,,,,Grama Vidiyal Microfinance Limited,Bank,
+,,,,BR,Teghra,IGL 1,TeghraIGL 1,200000,3000,175000,,,,,,,,Karnataka Bank Ltd,Bank,
+,,,,BR,Teghra,IGL 2,TeghraIGL 2,250000,3000,200000,,,,,,,,M Power Micro Finance Private Limited,MFI,
+,,,,BR,Teghra,MTL,TeghraMTL,200000,0,175000,,,,,,,,UNNATI MICROFIN PRIVATE LIMITED,MFI,
+,,,,BR,Teghra,MTL R,TeghraMTL R,250000,0,200000,,,,,,,,Agora Microfinance India Limited,MFI,
+,,,,BR,Triveniganj,CTL,TriveniganjCTL,250000,5000,250000,,,,,,,,Vistaar Financial Services Pvt. Ltd ,NBFC,
+,,,,BR,Triveniganj,IGL 1,TriveniganjIGL 1,200000,3000,175000,,,,,,,,ICICI Bank,Bank,
+,,,,BR,Triveniganj,IGL 2,TriveniganjIGL 2,250000,3000,200000,,,,,,,,Dvara Kshetriya Gramin Financial Private Limited,MFI,
+,,,,BR,Triveniganj,MTL,TriveniganjMTL,200000,0,175000,,,,,,,,,,
+,,,,BR,Triveniganj,MTL R,TriveniganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Balrampur,CTL,BalrampurCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Balrampur,IGL 1,BalrampurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Balrampur,IGL 2,BalrampurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Balrampur,MTL,BalrampurMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Balrampur,MTL R,BalrampurMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Bhanupratappur,CTL,BhanupratappurCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Bhanupratappur,IGL 1,BhanupratappurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Bhanupratappur,IGL 2,BhanupratappurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Bhanupratappur,MTL,BhanupratappurMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Bhanupratappur,MTL R,BhanupratappurMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Dhamdha,CTL,DhamdhaCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Dhamdha,IGL 2,DhamdhaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Dhamdha,MTL R,DhamdhaMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Gariaband,CTL,GariabandCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Gariaband,IGL 1,GariabandIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Gariaband,IGL 2,GariabandIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Gariaband,MTL,GariabandMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Gariaband,MTL R,GariabandMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Gharghoda,IGL 1,GharghodaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Gharghoda,MTL,GharghodaMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Jagdalpur,CTL,JagdalpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Jagdalpur,IGL 1,JagdalpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Jagdalpur,IGL 2,JagdalpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Jagdalpur,MTL,JagdalpurMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Jagdalpur,MTL R,JagdalpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Katghora,CTL,KatghoraCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Katghora,IGL 1,KatghoraIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Katghora,IGL 2,KatghoraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Katghora,MTL,KatghoraMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Katghora,MTL R,KatghoraMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Keshkal,CTL,KeshkalCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Keshkal,IGL 1,KeshkalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Keshkal,IGL 2,KeshkalIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Keshkal,MTL,KeshkalMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Keshkal,MTL R,KeshkalMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Kondagaon,CTL,KondagaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Kondagaon,IGL 1,KondagaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Kondagaon,IGL 2,KondagaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Kondagaon,MTL,KondagaonMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Kondagaon,MTL R,KondagaonMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Korba,CTL,KorbaCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Korba,IGL 1,KorbaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Korba,IGL 2,KorbaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Korba,MTL,KorbaMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Korba,MTL R,KorbaMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Kunkuri,CTL,KunkuriCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Kunkuri,IGL 1,KunkuriIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Kunkuri,IGL 2,KunkuriIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Kunkuri,MTL,KunkuriMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Kunkuri,MTL R,KunkuriMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Mohla,CTL,MohlaCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Mohla,IGL 1,MohlaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Mohla,IGL 2,MohlaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Mohla,MTL,MohlaMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Mohla,MTL R,MohlaMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Pakhanjur,CTL,PakhanjurCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Pakhanjur,IGL 1,PakhanjurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Pakhanjur,IGL 2,PakhanjurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Pakhanjur,MTL,PakhanjurMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Pakhanjur,MTL R,PakhanjurMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Pathalgaon,CTL,PathalgaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Pathalgaon,IGL 1,PathalgaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Pathalgaon,IGL 2,PathalgaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Pathalgaon,MTL,PathalgaonMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Pathalgaon,MTL R,PathalgaonMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Raigarh,CTL,RaigarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Raigarh,IGL 1,RaigarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Raigarh,MTL,RaigarhMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Rajnandgaon,CTL,RajnandgaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Rajnandgaon,IGL 1,RajnandgaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Rajnandgaon,IGL 2,RajnandgaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Rajnandgaon,MTL,RajnandgaonMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Rajnandgaon,MTL R,RajnandgaonMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Ratanpur,CTL,RatanpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Ratanpur,IGL 1,RatanpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Ratanpur,IGL 2,RatanpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Ratanpur,MTL,RatanpurMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Ratanpur,MTL R,RatanpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,HR,Bhiwani,CTL,BhiwaniCTL,250000,5000,250000,,,,,,,,,,
+,,,,HR,Bhiwani,IGL 1,BhiwaniIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,HR,Bhiwani,MTL,BhiwaniMTL,200000,0,175000,,,,,,,,,,
+,,,,HR,Bhiwani,MTL R,BhiwaniMTL R,250000,0,200000,,,,,,,,,,
+,,,,HR,Mahendragarh,CTL,MahendragarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,HR,Mahendragarh,IGL 1,MahendragarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,HR,Mahendragarh,MTL,MahendragarhMTL,200000,0,175000,,,,,,,,,,
+,,,,HR,Mahendragarh,MTL R,MahendragarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,HR,Narnaud,IGL 1,NarnaudIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,HR,Narnaud,MTL,NarnaudMTL,200000,0,175000,,,,,,,,,,
+,,,,HR,Pataudi,CTL,PataudiCTL,250000,5000,250000,,,,,,,,,,
+,,,,HR,Pataudi,IGL 1,PataudiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,HR,Pataudi,MTL,PataudiMTL,200000,0,175000,,,,,,,,,,
+,,,,HR,Pataudi,MTL R,PataudiMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Balumath,CTL,BalumathCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Balumath,IGL 1,BalumathIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Balumath,IGL 2,BalumathIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Balumath,MTL,BalumathMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Balumath,MTL R,BalumathMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Banaso,CTL,BanasoCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Banaso,IGL 1,BanasoIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Banaso,IGL 2,BanasoIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Banaso,MTL,BanasoMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Banaso,MTL R,BanasoMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Barharwa,IGL 1,BarharwaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Barharwa,IGL 2,BarharwaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Barharwa,MTL,BarharwaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Barharwa,MTL R,BarharwaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,BarharwaCS0019,IGL 1,BarharwaCS0019IGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,BarharwaCS0019,MTL,BarharwaCS0019MTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Barhi,CTL,BarhiCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Barhi,IGL 1,BarhiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Barhi,IGL 2,BarhiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Barhi,MTL,BarhiMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Barhi,MTL R,BarhiMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Bhawnathpur,CTL,BhawnathpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Bhawnathpur,IGL 1,BhawnathpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Bhawnathpur,IGL 2,BhawnathpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Bhawnathpur,MTL,BhawnathpurMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Bhawnathpur,MTL R,BhawnathpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Chandankiyari,CTL,ChandankiyariCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Chandankiyari,IGL 1,ChandankiyariIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Chandankiyari,IGL 2,ChandankiyariIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Chandankiyari,MTL,ChandankiyariMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Chandankiyari,MTL R,ChandankiyariMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Chatra,CTL,ChatraCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Chatra,IGL 1,ChatraIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Chatra,IGL 2,ChatraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Chatra,MTL,ChatraMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Chatra,MTL R,ChatraMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Chhattarpur,CTL,ChhattarpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Chhattarpur,IGL 1,ChhattarpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Chhattarpur,IGL 2,ChhattarpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Chhattarpur,MTL,ChhattarpurMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Chhattarpur,MTL R,ChhattarpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Chhendipada,MTL R,ChhendipadaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Daltonganj,CTL,DaltonganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Daltonganj,IGL 1,DaltonganjIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Daltonganj,IGL 2,DaltonganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Daltonganj,MTL,DaltonganjMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Daltonganj,MTL R,DaltonganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Domchanch,CTL,DomchanchCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Domchanch,IGL 1,DomchanchIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Domchanch,IGL 2,DomchanchIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Domchanch,MTL,DomchanchMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Domchanch,MTL R,DomchanchMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Garhwa,CTL,GarhwaCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Garhwa,IGL 1,GarhwaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Garhwa,IGL 2,GarhwaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Garhwa,MTL,GarhwaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Garhwa,MTL R,GarhwaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Gauri Bazar,IGL 2,Gauri BazarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Gawan,CTL,GawanCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Gawan,IGL 1,GawanIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Gawan,MTL,GawanMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Gawan,MTL R,GawanMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Godda,CTL,GoddaCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Godda,IGL 1,GoddaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Godda,IGL 2,GoddaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Godda,MTL,GoddaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Godda,MTL R,GoddaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Gomoh,CTL,GomohCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Gomoh,IGL 1,GomohIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Gomoh,IGL 2,GomohIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Gomoh,MTL,GomohMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Gomoh,MTL R,GomohMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Govindpur,IGL 1,GovindpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Govindpur,MTL,GovindpurMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Jamua,CTL,JamuaCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Jamua,IGL 1,JamuaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Jamua,IGL 2,JamuaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Jamua,MTL,JamuaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Jamua,MTL R,JamuaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Japla,CTL,JaplaCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Japla,IGL 1,JaplaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Japla,IGL 2,JaplaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Japla,MTL,JaplaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Japla,MTL R,JaplaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Latehar,CTL,LateharCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Latehar,IGL 1,LateharIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Latehar,IGL 2,LateharIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Latehar,MTL,LateharMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Latehar,MTL R,LateharMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Lesliganj,IGL 1,LesliganjIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Lesliganj,IGL 2,LesliganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Lesliganj,MTL,LesliganjMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Lesliganj,MTL R,LesliganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Mahagama,CTL,MahagamaCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Mahagama,IGL 1,MahagamaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Mahagama,IGL 2,MahagamaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Mahagama,MTL,MahagamaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Mahagama,MTL R,MahagamaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Mahua,MTL R,MahuaMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Pratappur,CTL,PratappurCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,PRATAPPUR,IGL 1,PRATAPPURIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,PRATAPPUR,IGL 2,PRATAPPURIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,PRATAPPUR,MTL,PRATAPPURMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,PRATAPPUR,MTL R,PRATAPPURMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Sahibganj,IGL 1,SahibganjIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Sahibganj,MTL,SahibganjMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Sahibganj,MTL R,SahibganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Suriya,CTL,SuriyaCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Suriya,IGL 1,SuriyaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,JH,Suriya,IGL 2,SuriyaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,JH,Suriya,MTL,SuriyaMTL,200000,0,175000,,,,,,,,,,
+,,,,JH,Suriya,MTL R,SuriyaMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Aland,CTL,AlandCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Aland,IGL 1,AlandIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Aland,IGL 2,AlandIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Aland,MTL,AlandMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Aland,MTL R,AlandMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Ballari,CTL,BallariCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Ballari,IGL 1,BallariIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Ballari,IGL 2,BallariIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Ballari,IGL3Y,BallariIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Ballari,IGL3Y-90,BallariIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Ballari,MTL,BallariMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Ballari,MTL R,BallariMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Basavakalyan,IGL 1,BasavakalyanIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Basavakalyan,MTL,BasavakalyanMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Belagavi,IGL 1,BelagaviIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Belagavi,MTL,BelagaviMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Bhalki,CTL,BhalkiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Bhalki,IGL 1,BhalkiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Bhalki,IGL 2,BhalkiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Bhalki,MTL,BhalkiMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Bhalki,MTL R,BhalkiMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Channarayapattana,CTL,ChannarayapattanaCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Channarayapattana,IGL 1,ChannarayapattanaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Channarayapattana,IGL 2,ChannarayapattanaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Channarayapattana,IGL3Y,ChannarayapattanaIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Channarayapattana,IGL3Y-90,ChannarayapattanaIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Channarayapattana,MTL,ChannarayapattanaMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Channarayapattana,MTL R,ChannarayapattanaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Chittaguppa,CTL,ChittaguppaCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Chittaguppa,IGL 1,ChittaguppaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Chittaguppa,IGL 2,ChittaguppaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Chittaguppa,IGL3Y,ChittaguppaIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Chittaguppa,IGL3Y-90,ChittaguppaIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Chittaguppa,MTL,ChittaguppaMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Chittaguppa,MTL R,ChittaguppaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Gangavathi,CTL,GangavathiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Gangavathi,IGL 1,GangavathiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Gangavathi,IGL 2,GangavathiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Gangavathi,IGL3Y,GangavathiIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Gangavathi,IGL3Y-90,GangavathiIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Gangavathi,MTL,GangavathiMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Gangavathi,MTL R,GangavathiMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Gokak,IGL 1,GokakIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Gokak,MTL,GokakMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Gundlupet,CTL,GundlupetCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Gundlupet,IGL 1,GundlupetIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Gundlupet,IGL 2,GundlupetIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Gundlupet,IGL3Y,GundlupetIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Gundlupet,IGL3Y-90,GundlupetIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Gundlupet,MTL,GundlupetMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Gundlupet,MTL R,GundlupetMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,HD Kote,CTL,HD KoteCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,HD Kote,IGL 1,HD KoteIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,HD Kote,IGL 2,HD KoteIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,HD Kote,IGL3Y,HD KoteIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,HD Kote,IGL3Y-90,HD KoteIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,HD Kote,MTL,HD KoteMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,HD Kote,MTL R,HD KoteMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Holenarasipura,CTL,HolenarasipuraCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Holenarasipura,IGL 1,HolenarasipuraIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Holenarasipura,IGL 2,HolenarasipuraIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Holenarasipura,IGL3Y,HolenarasipuraIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Holenarasipura,IGL3Y-90,HolenarasipuraIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Holenarasipura,MTL,HolenarasipuraMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Holenarasipura,MTL R,HolenarasipuraMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Honnalli,IGL 1,HonnalliIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Honnalli,MTL,HonnalliMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,HOSPET,CTL,HOSPETCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,HOSPET,IGL 1,HOSPETIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,HOSPET,IGL 2,HOSPETIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,HOSPET,IGL3Y,HOSPETIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,HOSPET,IGL3Y-90,HOSPETIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,HOSPET,MTL,HOSPETMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,HOSPET,MTL R,HOSPETMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Indi,CTL,IndiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Indi,IGL 1,IndiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Indi,IGL 2,IndiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Indi,IGL3Y,IndiIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Indi,IGL3Y-90,IndiIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Indi,MTL,IndiMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Indi,MTL R,IndiMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,K R Nagara,CTL,K R NagaraCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,K R Nagara,IGL 1,K R NagaraIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,K R Nagara,IGL 2,K R NagaraIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,K R Nagara,IGL3Y,K R NagaraIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,K R Nagara,IGL3Y-90,K R NagaraIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,K R Nagara,MTL,K R NagaraMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,K R Nagara,MTL R,K R NagaraMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,K R Pete,CTL,K R PeteCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,K R Pete,IGL 1,K R PeteIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,K R Pete,IGL 2,K R PeteIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,K R Pete,IGL3Y,K R PeteIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,K R Pete,IGL3Y-90,K R PeteIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,K R Pete,MTL,K R PeteMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,K R Pete,MTL R,K R PeteMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Kalaburagi,CTL,KalaburagiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Kalaburagi,IGL 1,KalaburagiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Kalaburagi,IGL 2,KalaburagiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kalaburagi,IGL3Y,KalaburagiIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kalaburagi,IGL3Y-90,KalaburagiIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kalaburagi,MTL,KalaburagiMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Kalaburagi,MTL R,KalaburagiMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Kanakapura,CTL,KanakapuraCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Kanakapura,IGL 1,KanakapuraIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Kanakapura,IGL 2,KanakapuraIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kanakapura,IGL3Y,KanakapuraIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kanakapura,IGL3Y-90,KanakapuraIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kanakapura,MTL,KanakapuraMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Kanakapura,MTL R,KanakapuraMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Koppal,IGL 1,KoppalIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Koppal,MTL,KoppalMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Kudligi,CTL,KudligiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Kudligi,IGL 1,KudligiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Kudligi,IGL 2,KudligiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kudligi,IGL3Y,KudligiIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kudligi,IGL3Y-90,KudligiIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kudligi,MTL,KudligiMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Kudligi,MTL R,KudligiMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Kundgol,CTL,KundgolCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Kundgol,IGL 1,KundgolIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Kundgol,MTL,KundgolMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Kundgol,MTL R,KundgolMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Kushtagi,CTL,KushtagiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Kushtagi,IGL 1,KushtagiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Kushtagi,IGL 2,KushtagiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Kushtagi,MTL,KushtagiMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Kushtagi,MTL R,KushtagiMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Laxmeshwar,CTL,LaxmeshwarCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Laxmeshwar,IGL 1,LaxmeshwarIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Laxmeshwar,IGL 2,LaxmeshwarIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Laxmeshwar,MTL,LaxmeshwarMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Laxmeshwar,MTL R,LaxmeshwarMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Maddur,CTL,MaddurCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Maddur,IGL 1,MaddurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Maddur,IGL 2,MaddurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Maddur,IGL3Y,MaddurIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Maddur,IGL3Y-90,MaddurIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Maddur,MTL,MaddurMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Maddur,MTL R,MaddurMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Malavalli,CTL,MalavalliCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Malavalli,IGL 1,MalavalliIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Malavalli,MTL,MalavalliMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Malavalli,MTL R,MalavalliMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Muddebihal,CTL,MuddebihalCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Muddebihal,IGL 1,MuddebihalIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Muddebihal,IGL 2,MuddebihalIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Muddebihal,MTL,MuddebihalMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Nanjangudu,CTL,NanjanguduCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Nanjangudu,IGL 1,NanjanguduIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Nanjangudu,IGL 2,NanjanguduIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Nanjangudu,IGL3Y,NanjanguduIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Nanjangudu,IGL3Y-90,NanjanguduIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Nanjangudu,MTL,NanjanguduMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Nanjangudu,MTL R,NanjanguduMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Nittur,CTL,NitturCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Nittur,IGL 1,NitturIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Nittur,IGL 2,NitturIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Nittur,IGL3Y,NitturIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Nittur,IGL3Y-90,NitturIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Nittur,MTL,NitturMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Nittur,MTL R,NitturMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Ramanathapura,CTL,RamanathapuraCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Ramanathapura,IGL 1,RamanathapuraIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Ramanathapura,IGL 2,RamanathapuraIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Ramanathapura,IGL3Y,RamanathapuraIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Ramanathapura,IGL3Y-90,RamanathapuraIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Ramanathapura,MTL,RamanathapuraMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Ramanathapura,MTL R,RamanathapuraMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Ranebennur,CTL,RanebennurCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Ranebennur,IGL 1,RanebennurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Ranebennur,MTL,RanebennurMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Rona,IGL 1,RonaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Rona,MTL,RonaMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,CTL,SANTHEMARAHALLICTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,IGL 1,SANTHEMARAHALLIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,IGL 2,SANTHEMARAHALLIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,IGL3Y,SANTHEMARAHALLIIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,IGL3Y-90,SANTHEMARAHALLIIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,MTL,SANTHEMARAHALLIMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,SANTHEMARAHALLI,MTL R,SANTHEMARAHALLIMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Shimoga,CTL,ShimogaCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Shimoga,IGL 1,ShimogaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Shimoga,IGL 2,ShimogaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Shimoga,IGL3Y,ShimogaIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Shimoga,IGL3Y-90,ShimogaIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Shimoga,MTL,ShimogaMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Shimoga,MTL R,ShimogaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Shorapur,IGL 1,ShorapurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Shorapur,MTL,ShorapurMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Sindhanur,CTL,SindhanurCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Sindhanur,IGL 1,SindhanurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Sindhanur,IGL 2,SindhanurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sindhanur,IGL3Y,SindhanurIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sindhanur,IGL3Y-90,SindhanurIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sindhanur,MTL,SindhanurMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Sindhanur,MTL R,SindhanurMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Sira,CTL,SiraCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Sira,IGL 1,SiraIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Sira,MTL,SiraMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Sira,MTL R,SiraMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Sirwar,CTL,SirwarCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Sirwar,IGL 1,SirwarIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Sirwar,IGL 2,SirwarIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sirwar,IGL3Y,SirwarIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sirwar,IGL3Y-90,SirwarIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sirwar,MTL,SirwarMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Sirwar,MTL R,SirwarMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Soraba,CTL,SorabaCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Soraba,IGL 1,SorabaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Soraba,IGL 2,SorabaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Soraba,IGL3Y,SorabaIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Soraba,IGL3Y-90,SorabaIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Soraba,MTL,SorabaMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Soraba,MTL R,SorabaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Turuvekere,CTL,TuruvekereCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Turuvekere,IGL 1,TuruvekereIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Turuvekere,IGL 2,TuruvekereIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Turuvekere,IGL3Y,TuruvekereIGL3Y,300000,3000,250000,,,,,,,,,,
+,,,,KA,Turuvekere,IGL3Y-90,TuruvekereIGL3Y-90,300000,3000,250000,,,,,,,,,,
+,,,,KA,Turuvekere,MTL,TuruvekereMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Turuvekere,MTL R,TuruvekereMTL R,300000,0,250000,,,,,,,,,,
+,,,,MH,AHMEDPUR,CTL,AHMEDPURCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,AHMEDPUR,IGL 1,AHMEDPURIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,AHMEDPUR,IGL 2,AHMEDPURIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,AHMEDPUR,MTL,AHMEDPURMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,AHMEDPUR,MTL R,AHMEDPURMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Akhada Balapur,CTL,Akhada BalapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Akhada Balapur,IGL 1,Akhada BalapurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Akhada Balapur,IGL 2,Akhada BalapurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Akhada Balapur,MTL,Akhada BalapurMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Akhada Balapur,MTL R,Akhada BalapurMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Ambad,CTL,AmbadCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Ambad,IGL 1,AmbadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Ambad,IGL 2,AmbadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Ambad,MTL,AmbadMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Ambad,MTL R,AmbadMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,AMBEJOGAI,CTL,AMBEJOGAICTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,AMBEJOGAI,IGL 1,AMBEJOGAIIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,AMBEJOGAI,IGL 2,AMBEJOGAIIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,AMBEJOGAI,MTL,AMBEJOGAIMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,AMBEJOGAI,MTL R,AMBEJOGAIMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Aurangabad,CTL,AurangabadCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Aurangabad,IGL 1,AurangabadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Aurangabad,IGL 2,AurangabadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Aurangabad,MTL,AurangabadMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Aurangabad,MTL R,AurangabadMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Badnapur,CTL,BadnapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Badnapur,IGL 1,BadnapurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Badnapur,IGL 2,BadnapurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Badnapur,MTL,BadnapurMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Badnapur,MTL R,BadnapurMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Basmat,CTL,BasmatCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Basmat,IGL 1,BasmatIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Basmat,IGL 2,BasmatIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Basmat,MTL,BasmatMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Basmat,MTL R,BasmatMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Bhandara,CTL,BhandaraCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Bhandara,IGL 1,BhandaraIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Bhandara,IGL 2,BhandaraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Bhandara,MTL,BhandaraMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Bhandara,MTL R,BhandaraMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Chalisgaon,CTL,ChalisgaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Chalisgaon,IGL 1,ChalisgaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Chalisgaon,IGL 2,ChalisgaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Chalisgaon,MTL,ChalisgaonMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Chalisgaon,MTL R,ChalisgaonMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Deori,IGL 1,DeoriIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Deori,MTL,DeoriMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Deulgaon Raja,CTL,Deulgaon RajaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Deulgaon Raja,IGL 1,Deulgaon RajaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Deulgaon Raja,IGL 2,Deulgaon RajaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Deulgaon Raja,MTL,Deulgaon RajaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Deulgaon Raja,MTL R,Deulgaon RajaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Dhule,CTL,DhuleCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Dhule,IGL 1,DhuleIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Dhule,IGL 2,DhuleIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Dhule,MTL,DhuleMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Dhule,MTL R,DhuleMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Gadchandur,CTL,GadchandurCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Gadchandur,IGL 1,GadchandurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Gadchandur,IGL 2,GadchandurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Gadchandur,MTL,GadchandurMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Gadchandur,MTL R,GadchandurMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Gangakhed,CTL,GangakhedCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Gangakhed,IGL 1,GangakhedIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Gangakhed,IGL 2,GangakhedIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Gangakhed,MTL,GangakhedMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Gangakhed,MTL R,GangakhedMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Ghatanji,CTL,GhatanjiCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Ghatanji,IGL 1,GhatanjiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Ghatanji,IGL 2,GhatanjiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Ghatanji,MTL,GhatanjiMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Ghatanji,MTL R,GhatanjiMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Gondia,CTL,GondiaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Gondia,IGL 1,GondiaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Gondia,IGL 2,GondiaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Gondia,MTL,GondiaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Gondia,MTL R,GondiaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,HADGAON,CTL,HADGAONCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,HADGAON,IGL 1,HADGAONIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,HADGAON,IGL 2,HADGAONIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,HADGAON,MTL,HADGAONMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,HADGAON,MTL R,HADGAONMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Jintur,CTL,JinturCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Jintur,IGL 1,JinturIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Jintur,IGL 2,JinturIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Jintur,MTL,JinturMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Jintur,MTL R,JinturMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Khamgaon,CTL,KhamgaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Khamgaon,IGL 1,KhamgaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Khamgaon,MTL,KhamgaonMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Khamgaon,MTL R,KhamgaonMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Kinwat,CTL,KinwatCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Kinwat,IGL 1,KinwatIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Kinwat,IGL 2,KinwatIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Kinwat,MTL,KinwatMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Kinwat,MTL R,KinwatMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Latur,CTL,LaturCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Latur,IGL 1,LaturIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Latur,IGL 2,LaturIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Latur,MTL,LaturMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Latur,MTL R,LaturMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Manwath,CTL,ManwathCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Manwath,IGL 1,ManwathIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Manwath,MTL,ManwathMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Manwath,MTL R,ManwathMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Mehkar,CTL,MehkarCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Mehkar,IGL 1,MehkarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Mehkar,IGL 2,MehkarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Mehkar,MTL,MehkarMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Mehkar,MTL R,MehkarMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Muddebihal,MTL R,MuddebihalMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,NAIGAON,CTL,NAIGAONCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,NAIGAON,IGL 1,NAIGAONIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,NAIGAON,IGL 2,NAIGAONIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,NAIGAON,MTL,NAIGAONMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,NAIGAON,MTL R,NAIGAONMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,NANDED,CTL,NANDEDCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,NANDED,IGL 1,NANDEDIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,NANDED,IGL 2,NANDEDIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,NANDED,MTL,NANDEDMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,NANDED,MTL R,NANDEDMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,NILANGA,CTL,NILANGACTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,NILANGA,IGL 1,NILANGAIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,NILANGA,IGL 2,NILANGAIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,NILANGA,MTL,NILANGAMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,NILANGA,MTL R,NILANGAMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Omerga,CTL,OmergaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Omerga,IGL 1,OmergaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Omerga,MTL,OmergaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Pachora,CTL,PachoraCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Pachora,IGL 1,PachoraIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Pachora,IGL 2,PachoraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Pachora,MTL,PachoraMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Pachora,MTL R,PachoraMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,PAITHAN,CTL,PAITHANCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,PAITHAN,IGL 1,PAITHANIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,PAITHAN,IGL 2,PAITHANIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,PAITHAN,MTL,PAITHANMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,PAITHAN,MTL R,PAITHANMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Pandharkawada,CTL,PandharkawadaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Pandharkawada,IGL 1,PandharkawadaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Pandharkawada,IGL 2,PandharkawadaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Pandharkawada,MTL,PandharkawadaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Pandharkawada,MTL R,PandharkawadaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Partur,CTL,ParturCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Partur,IGL 1,ParturIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Partur,MTL,ParturMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Partur,MTL R,ParturMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Ramtek,CTL,RamtekCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Ramtek,IGL 1,RamtekIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Ramtek,IGL 2,RamtekIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Ramtek,MTL,RamtekMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Ramtek,MTL R,RamtekMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Raver,IGL 1,RaverIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Raver,MTL,RaverMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Raver,MTL R,RaverMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Saoner,CTL,SaonerCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Saoner,IGL 1,SaonerIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Saoner,IGL 2,SaonerIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Saoner,MTL,SaonerMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Saoner,MTL R,SaonerMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Sengaon,CTL,SengaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Sengaon,IGL 1,SengaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Sengaon,MTL,SengaonMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Sengaon,MTL R,SengaonMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Shahapur,CTL,ShahapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Shahapur,IGL 1,ShahapurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Shahapur,IGL 2,ShahapurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Shahapur,MTL,ShahapurMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Shahapur,MTL R,ShahapurMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Shirpur,CTL,ShirpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Shirpur,IGL 1,ShirpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Shirpur,IGL 2,ShirpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Shirpur,MTL,ShirpurMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Shirpur,MTL R,ShirpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Sillod,CTL,SillodCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Sillod,IGL 1,SillodIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Sillod,IGL 2,SillodIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Sillod,MTL,SillodMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Sillod,MTL R,SillodMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Tuljapur,IGL 1,TuljapurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Tuljapur,MTL,TuljapurMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Umred,CTL,UmredCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Umred,IGL 1,UmredIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Umred,IGL 2,UmredIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Umred,MTL,UmredMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Umred,MTL R,UmredMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Wadsa,CTL,WadsaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Wadsa,IGL 1,WadsaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Wadsa,MTL,WadsaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Wadsa,MTL R,WadsaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Warora,CTL,WaroraCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Warora,IGL 1,WaroraIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Warora,IGL 2,WaroraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Warora,MTL,WaroraMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Warora,MTL R,WaroraMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Yavatmal,CTL,YavatmalCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Yavatmal,IGL 1,YavatmalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Yavatmal,IGL 2,YavatmalIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Yavatmal,MTL,YavatmalMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Yavatmal,MTL R,YavatmalMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Baihar,IGL 1,BaiharIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Baihar,IGL 2,BaiharIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Baihar,MTL,BaiharMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Baihar,MTL R,BaiharMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Balaghat,CTL,BalaghatCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Balaghat,IGL 1,BalaghatIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Balaghat,IGL 2,BalaghatIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Balaghat,MTL,BalaghatMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Balaghat,MTL R,BalaghatMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Barela,IGL 1,BarelaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Barela,IGL 2,BarelaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Barela,MTL,BarelaMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Barela,MTL R,BarelaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Bhainsdehi,IGL 1,BhainsdehiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Bhainsdehi,MTL,BhainsdehiMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Bichhiya,CTL,BichhiyaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Bichhiya,IGL 1,BichhiyaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Bichhiya,MTL,BichhiyaMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Bichhiya,MTL R,BichhiyaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Birsinghpur,IGL 1,BirsinghpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Birsinghpur,MTL,BirsinghpurMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Chhapara,IGL 1,ChhaparaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Chhapara,IGL 2,ChhaparaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Chhapara,MTL,ChhaparaMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Chhapara,MTL R,ChhaparaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Ghoradongri,IGL 1,GhoradongriIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Ghoradongri,MTL,GhoradongriMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Mangawan,IGL 1,MangawanIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Mangawan,MTL,MangawanMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Rampur Baghelan,IGL 1,Rampur BaghelanIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Rampur Baghelan,MTL,Rampur BaghelanMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Rampur Naikin,IGL 1,Rampur NaikinIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Rampur Naikin,IGL 2,Rampur NaikinIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Rampur Naikin,MTL,Rampur NaikinMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Sausar,IGL 1,SausarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Sausar,MTL,SausarMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Sidhi,IGL 1,SidhiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Sidhi,MTL,SidhiMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Umranala,CTL,UmranalaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Umranala,IGL 1,UmranalaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Umranala,IGL 2,UmranalaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Umranala,MTL,UmranalaMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Umranala,MTL R,UmranalaMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Adaspur,CTL,AdaspurCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Adaspur,IGL 1,AdaspurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Adaspur,IGL 2,AdaspurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Adaspur,MTL,AdaspurMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Adaspur,MTL R,AdaspurMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Balangir,CTL,BalangirCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Balangir,IGL 1,BalangirIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Balangir,MTL,BalangirMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Balangir,MTL R,BalangirMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Bhanjanagar,CTL,BhanjanagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Bhanjanagar,IGL 1,BhanjanagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Bhanjanagar,IGL 2,BhanjanagarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Bhanjanagar,MTL,BhanjanagarMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Bhanjanagar,MTL R,BhanjanagarMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Chhendipada,CTL,ChhendipadaCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Chhendipada,IGL 1,ChhendipadaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Chhendipada,MTL,ChhendipadaMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Dhenkanal,CTL,DhenkanalCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Dhenkanal,IGL 1,DhenkanalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Dhenkanal,IGL 2,DhenkanalIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Dhenkanal,MTL,DhenkanalMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Dhenkanal,MTL R,DhenkanalMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Hinjilicut,CTL,HinjilicutCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Hinjilicut,IGL 1,HinjilicutIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Hinjilicut,IGL 2,HinjilicutIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Hinjilicut,MTL,HinjilicutMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Hinjilicut,MTL R,HinjilicutMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Jankia,CTL,JankiaCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Jankia,IGL 1,JankiaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Jankia,IGL 2,JankiaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Jankia,MTL,JankiaMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Jankia,MTL R,JankiaMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Kamakhyanagar,CTL,KamakhyanagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Kamakhyanagar,IGL 1,KamakhyanagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Kamakhyanagar,IGL 2,KamakhyanagarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Kamakhyanagar,MTL,KamakhyanagarMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Kamakhyanagar,MTL R,KamakhyanagarMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Khandapada,CTL,KhandapadaCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Khandapada,IGL 1,KhandapadaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Khandapada,MTL,KhandapadaMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Khandapada,MTL R,KhandapadaMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Kodala,CTL,KodalaCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Kodala,IGL 1,KodalaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Kodala,IGL 2,KodalaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Kodala,MTL,KodalaMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Kodala,MTL R,KodalaMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,KOTPAD,IGL 1,KOTPADIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,KOTPAD,MTL,KOTPADMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,KOTPAD,MTL R,KOTPADMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Semiliguda,CTL,SemiligudaCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Semiliguda,IGL 1,SemiligudaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Semiliguda,MTL,SemiligudaMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Semiliguda,MTL R,SemiligudaMTL R,250000,0,200000,,,,,,,,,,
+,,,,OD,Titlahgarh,CTL,TitlahgarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Titlahgarh,IGL 1,TitlahgarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Titlahgarh,MTL,TitlahgarhMTL,200000,0,175000,,,,,,,,,,
+,,,,OD,Titlahgarh,MTL R,TitlahgarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Asind,IGL 1,AsindIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Asind,MTL,AsindMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Beawar,IGL 1,BeawarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Beawar,MTL,BeawarMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Degana,IGL 1,DeganaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Degana,MTL,DeganaMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Deogarh,IGL 1,DeogarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Deogarh,MTL,DeogarhMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Jhunjhunu,CTL,JhunjhunuCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Jhunjhunu,IGL 1,JhunjhunuIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Jhunjhunu,MTL,JhunjhunuMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Mandalgarh,IGL 1,MandalgarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Mandalgarh,MTL,MandalgarhMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Merta Road,IGL 1,Merta RoadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Merta Road,MTL,Merta RoadMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Rajsamand,IGL 1,RajsamandIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Rajsamand,MTL,RajsamandMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Sikar,CTL,SikarCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Sikar,IGL 1,SikarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Sikar,MTL,SikarMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Sikar,MTL R,SikarMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Singhana,CTL,SinghanaCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Singhana,IGL 1,SinghanaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Singhana,MTL,SinghanaMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Singhana,MTL R,SinghanaMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Sujangarh,IGL 1,SujangarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Sujangarh,MTL,SujangarhMTL,200000,0,175000,,,,,,,,,,
+,,,,TN,Annur,CTL,AnnurCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Annur,IGL 1,AnnurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Annur,MTL,AnnurMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Annur,MTL R,AnnurMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Dharapuram,CTL,DharapuramCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Dharapuram,IGL 1,DharapuramIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Dharapuram,MTL,DharapuramMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Dharapuram,MTL R,DharapuramMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Karaikudi,IGL 1,KaraikudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Karaikudi,MTL,KaraikudiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Manamadurai,CTL,ManamaduraiCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Manamadurai,IGL 1,ManamaduraiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Manamadurai,MTL,ManamaduraiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Manamadurai,MTL R,ManamaduraiMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Melur,CTL,MelurCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Melur,IGL 1,MelurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Melur,MTL,MelurMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Melur,MTL R,MelurMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Natham,CTL,NathamCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Natham,IGL 1,NathamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Natham,MTL,NathamMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Natham,MTL R,NathamMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Palladam,CTL,PalladamCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Palladam,IGL 1,PalladamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Palladam,MTL,PalladamMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Palladam,MTL R,PalladamMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Pollachi,CTL,PollachiCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Pollachi,IGL 1,PollachiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Pollachi,MTL,PollachiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Pollachi,MTL R,PollachiMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Tirumangalam,CTL,TirumangalamCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Tirumangalam,IGL 1,TirumangalamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Tirumangalam,MTL,TirumangalamMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Tirumangalam,MTL R,TirumangalamMTL R,300000,0,250000,,,,,,,,,,
+,,,,UP,Ayodhya,CTL,AyodhyaCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Ayodhya,IGL 1,AyodhyaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Ayodhya,IGL 2,AyodhyaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Ayodhya,MTL,AyodhyaMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Ayodhya,MTL R,AyodhyaMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Bahraich,CTL,BahraichCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Bahraich,IGL 1,BahraichIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Bahraich,MTL,BahraichMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Bahraich,MTL R,BahraichMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Banda,IGL 1,BandaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Banda,MTL,BandaMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Bashkhari,CTL,BashkhariCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Bashkhari,IGL 1,BashkhariIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Bashkhari,IGL 2,BashkhariIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Bashkhari,MTL,BashkhariMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Bashkhari,MTL R,BashkhariMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Basti,IGL 1,BastiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Basti,MTL,BastiMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Basti,MTL R,BastiMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Bhathat,CTL,BhathatCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Bhathat,IGL 1,BhathatIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Bhathat,IGL 2,BhathatIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Bhathat,MTL,BhathatMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Bhathat,MTL R,BhathatMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Bhatni,CTL,BhatniCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Bhatni,IGL 1,BhatniIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Bhatni,IGL 2,BhatniIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Bhatni,MTL,BhatniMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Bhatni,MTL R,BhatniMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Gauri Bazar,CTL,Gauri BazarCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Gauri Bazar,IGL 1,Gauri BazarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Gauri Bazar,MTL,Gauri BazarMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Gauri Bazar,MTL R,Gauri BazarMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Harraiya,CTL,HarraiyaCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Harraiya,IGL 1,HarraiyaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Harraiya,IGL 2,HarraiyaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Harraiya,MTL,HarraiyaMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Harraiya,MTL R,HarraiyaMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Innyat nagar,IGL 1,Innyat nagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Innyat nagar,MTL,Innyat nagarMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Jhansi,IGL 1,JhansiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Jhansi,MTL,JhansiMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Kaptanganj,CTL,KaptanganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Kaptanganj,IGL 1,KaptanganjIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Kaptanganj,IGL 2,KaptanganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Kaptanganj,MTL,KaptanganjMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Kaptanganj,MTL R,KaptanganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Khalilabad,CTL,KhalilabadCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Khalilabad,IGL 1,KhalilabadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Khalilabad,MTL,KhalilabadMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Khalilabad,MTL R,KhalilabadMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Kolhui Bazar,CTL,Kolhui BazarCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Kolhui Bazar,IGL 1,Kolhui BazarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Kolhui Bazar,IGL 2,Kolhui BazarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Kolhui Bazar,MTL,Kolhui BazarMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Kolhui Bazar,MTL R,Kolhui BazarMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Lalitpur,IGL 1,LalitpurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Lalitpur,MTL,LalitpurMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Lesliganj,CTL,LesliganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Maharajganj,CTL,MaharajganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Maharajganj,IGL 1,MaharajganjIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Maharajganj,IGL 2,MaharajganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Maharajganj,MTL,MaharajganjMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Maharajganj,MTL R,MaharajganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Mahoba,IGL 1,MahobaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Mahoba,MTL,MahobaMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Mehdawal,CTL,MehdawalCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Mehdawal,IGL 1,MehdawalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Mehdawal,IGL 2,MehdawalIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Mehdawal,MTL,MehdawalMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Mehdawal,MTL R,MehdawalMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Moth,IGL 1,MothIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Moth,MTL,MothMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Nanpara,IGL 1,NanparaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Nanpara,MTL,NanparaMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Nanpara,MTL R,NanparaMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Orai,IGL 1,OraiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Orai,MTL,OraiMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Renukoot,CTL,RenukootCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Renukoot,IGL 1,RenukootIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Renukoot,IGL 2,RenukootIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Renukoot,MTL,RenukootMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Renukoot,MTL R,RenukootMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Robertsganj,CTL,RobertsganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Robertsganj,IGL 1,RobertsganjIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Robertsganj,IGL 2,RobertsganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Robertsganj,MTL,RobertsganjMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Robertsganj,MTL R,RobertsganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Talbehat,IGL 1,TalbehatIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Talbehat,MTL,TalbehatMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Tamkuhiraj,CTL,TamkuhirajCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Tamkuhiraj,IGL 1,TamkuhirajIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Tamkuhiraj,IGL 2,TamkuhirajIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Tamkuhiraj,MTL,TamkuhirajMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Tamkuhiraj,MTL R,TamkuhirajMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Tetri Bazar,CTL,Tetri BazarCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Tetri Bazar,IGL 1,Tetri BazarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Tetri Bazar,IGL 2,Tetri BazarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Tetri Bazar,MTL,Tetri BazarMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Tetri Bazar,MTL R,Tetri BazarMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Uruwa Bazar,CTL,Uruwa BazarCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Uruwa Bazar,IGL 1,Uruwa BazarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Uruwa Bazar,IGL 2,Uruwa BazarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Uruwa Bazar,MTL,Uruwa BazarMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Uruwa Bazar,MTL R,Uruwa BazarMTL R,250000,0,200000,,,,,,,,,,
+,,,,BR,Jamui,IGL 2,JamuiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Palani,IGL 1,PalaniIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Basavakalyan,CTL,BasavakalyanCTL,300000,5000,300000,,,,,,,,,,
+,,,,OD,Raikia,IGL 1,RaikiaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Sujangarh,CTL,SujangarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Sahibganj,CTL,SahibganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Wadsa,IGL 2,WadsaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Gharghoda,CTL,GharghodaCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Beawar,CTL,BeawarCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Chhapra,CTL,ChhapraCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Deogarh,CTL,DeogarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Karwi,IGL 1,KarwiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Basti,CTL,BastiCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Mandalgarh,CTL,MandalgarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Rajapalayam,IGL 1,RajapalayamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,UP,Nanpara,CTL,NanparaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Chhapara,CTL,ChhaparaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Baihar,CTL,BaiharCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Barharwa,CTL,BarharwaCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Nanpara,IGL 2,NanparaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Koppal,CTL,KoppalCTL,300000,5000,300000,,,,,,,,,,
+,,,,MP,Ghoradongri,CTL,GhoradongriCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Kotpad,CTL,KotpadCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Bhainsdehi,CTL,BhainsdehiCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Asind,CTL,AsindCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Lakhisarai,IGL 2,LakhisaraiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Sausar,CTL,SausarCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Khagaria,IGL 2,KhagariaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Sattur,IGL 1,SatturIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Rona,CTL,RonaCTL,300000,5000,300000,,,,,,,,,,
+,,,,MP,Vijayraghavgarh,IGL 1,VijayraghavgarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,BR,Raniganj,CTL,RaniganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Bhainsdehi,IGL 2,BhainsdehiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Kundam,IGL 1,KundamIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,BR,Forbesganj,CTL,ForbesganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Itwa,IGL 1,ItwaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Partur,IGL 2,ParturIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Ghoradongri,IGL 2,GhoradongriIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Kundgol,IGL 2,KundgolIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,RJ,Degana,CTL,DeganaCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Patori,CTL,PatoriCTL,250000,5000,250000,,,,,,,,,,
+,,,,JH,Govindpur,CTL,GovindpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Raigarh,IGL 2,RaigarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Sausar,IGL 2,SausarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Gharghoda,IGL 2,GharghodaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Lanji,IGL 1,LanjiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Nirmal,IGL 1,NirmalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Moth,CTL,MothCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Barauli,IGL 2,BarauliIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Rath,IGL 1,RathIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Honnalli,CTL,HonnalliCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Karur,IGL 1,KarurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Chikodi,IGL 1,ChikodiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Karaikudi,CTL,KaraikudiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Sedam,IGL 1,SedamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Vijayapura,IGL 1,VijayapuraIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Hagaribommanahalli,IGL 1,HagaribommanahalliIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,RJ,Osian,IGL 1,OsianIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,Mangawan,IGL 2,MangawanIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Deori,CTL,DeoriCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Chitradurga,IGL 1,ChitradurgaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Ichoda,IGL 1,IchodaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Chhendipada,IGL 2,ChhendipadaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Alangudi,IGL 1,AlangudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Adilabad,IGL 1,AdilabadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MP,New Ramnagar,IGL 1,New RamnagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Raver,CTL,RaverCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Innyat nagar,CTL,Innyat nagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Muthukulathur,IGL 1,MuthukulathurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,MP,Birsinghpur,IGL 2,BirsinghpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Raipur,IGL 1,RaipurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,R.S.Mangalam,IGL 1,R.S.MangalamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,MH,Manwath,IGL 2,ManwathIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Jhansi,CTL,JhansiCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Mahua,IGL 2,MahuaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Sengaon,IGL 2,SengaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Khamgaon,IGL 2,KhamgaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Chandi,IGL 2,ChandiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Shorapur,CTL,ShorapurCTL,300000,5000,300000,,,,,,,,,,
+,,,,UP,Bahraich,IGL 2,BahraichIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Mahoba,CTL,MahobaCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Raghunathpur,IGL 2,RaghunathpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Basti,IGL 2,BastiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Gokak,IGL 2,GokakIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,JH,Sahibganj,IGL 2,SahibganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Surajgarha,IGL 2,SurajgarhaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Gogri Jamalpur,IGL 2,Gogri JamalpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Rona,IGL 2,RonaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MP,Sidhi,CTL,SidhiCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Bihariganj,IGL 2,BihariganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Champa,IGL 1,ChampaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Kotpad,IGL 2,KotpadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Nizamabad,IGL 1,NizamabadIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Mancherial,IGL 1,MancherialIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,JH,Gawan,IGL 2,GawanIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Alangudi,IGL 1,AlangudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Koppal,IGL 2,KoppalIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,CG,Sarangarh,IGL 1,SarangarhIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Titlahgarh,IGL 2,TitlahgarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Barela,CTL,BarelaCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Bihariganj,CTL,BihariganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Patan,IGL 1,PatanIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,OD,Balangir,IGL 2,BalangirIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,OD,Barapali,IGL 1,BarapaliIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Kumbakonam,IGL 1,KumbakonamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,MH,Tuljapur,CTL,TuljapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Lalitpur,CTL,LalitpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Kulithalai,IGL 1,KulithalaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,HR,Narnaud,CTL,NarnaudCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Belagavi,CTL,BelagaviCTL,300000,5000,300000,,,,,,,,,,
+,,,,RJ,Rajsamand,CTL,RajsamandCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Merta Road,CTL,Merta RoadCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Mangawan,CTL,MangawanCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Semiliguda,IGL 2,SemiligudaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Gokak,CTL,GokakCTL,300000,5000,300000,,,,,,,,,,
+,,,,MP,Sausar,MTL R,SausarMTL R,250000,0,200000,,,,,,,,,,
+,,,,JH,Govindpur,IGL 2,GovindpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Birsinghpur,CTL,BirsinghpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Rampur Naikin,CTL,Rampur NaikinCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Raver,IGL 2,RaverIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Haveri,IGL 1,HaveriIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Rona,MTL R,RonaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Sira,IGL 2,SiraIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Srirangapatna,IGL 1,SrirangapatnaIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,MP,Sidhi,IGL 2,SidhiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Davangere,IGL 1,DavangereIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,OD,Raikia,MTL,RaikiaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Deori,IGL 2,DeoriIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Rampur Baghelan,IGL 2,Rampur BaghelanIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Sattur,CTL,SatturCTL,300000,5000,300000,,,,,,,,,,
+,,,,BR,Madhepura,IGL 2,MadhepuraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Alangudi,CTL,AlangudiCTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Karimnagar,IGL 1,KarimnagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Jagtial,IGL 1,JagtialIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Palani,MTL,PalaniMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Shorapur,IGL 2,ShorapurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Hagaribommanahalli,IGL 2,HagaribommanahalliIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Sidhipet,IGL 1,SidhipetIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Hagaribommanahalli,MTL R,HagaribommanahalliMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Chitradurga,CTL,ChitradurgaCTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Nirmal,CTL,NirmalCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Talbehat,IGL 2,TalbehatIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Kundam,MTL,KundamMTL,200000,0,175000,,,,,,,,,,
+,,,,KA,Channagiri,IGL 1,ChannagiriIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Adilabad,CTL,AdilabadCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Dharwad,IGL 1,DharwadIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Hangal,IGL 1,HangalIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,UP,Lalitpur,IGL 2,LalitpurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Jhansi,IGL 2,JhansiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Orathanadu,IGL 1,OrathanaduIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Ichoda,CTL,IchodaCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Keeranur,IGL 1,KeeranurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Peddapalli,IGL 1,PeddapalliIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Paramathi Velur,IGL 1,Paramathi VelurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Rajapalayam,CTL,RajapalayamCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Rasipuram,IGL 1,RasipuramIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Hagaribommanahalli,MTL,HagaribommanahalliMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Hagaribommanahalli,CTL,HagaribommanahalliCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Sedam,MTL,SedamMTL,250000,0,225000,,,,,,,,,,
+,,,,UP,Rath,MTL,RathMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Talbehat,CTL,TalbehatCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Bhainsdehi,MTL R,BhainsdehiMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Bagalkote,IGL 1,BagalkoteIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Chikodi,CTL,ChikodiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Chikodi,MTL,ChikodiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Kumbakonam,CTL,KumbakonamCTL,300000,5000,300000,,,,,,,,,,
+,,,,MP,Rampur Baghelan,CTL,Rampur BaghelanCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Champa,CTL,ChampaCTL,250000,5000,250000,,,,,,,,,,
+,,,,MP,Lanji,MTL,LanjiMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Sarangarh,CTL,SarangarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,OD,Khandapada,IGL 2,KhandapadaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Nirmal,MTL,NirmalMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Vijayraghavgarh,MTL,VijayraghavgarhMTL,200000,0,175000,,,,,,,,,,
+,,,,KA,Jamkhandi,IGL 1,JamkhandiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Rajapalayam,MTL,RajapalayamMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Palani,CTL,PalaniCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Vijayapura,CTL,VijayapuraCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Annur,IGL 2,AnnurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,UP,Mahoba,IGL 2,MahobaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Banda,IGL 2,BandaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Malavalli,IGL 2,MalavalliIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sedam,CTL,SedamCTL,300000,5000,300000,,,,,,,,,,
+,,,,UP,Banda,MTL R,BandaMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Khagaznagar,IGL 1,KhagaznagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Mancherial,CTL,MancherialCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Khalilabad,IGL 2,KhalilabadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Innyat nagar,IGL 2,Innyat nagarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Omerga,IGL 2,OmergaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Moth,IGL 2,MothIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Jhansi,MTL R,JhansiMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Jagalur,IGL 1,JagalurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Ranebennur,IGL 2,RanebennurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Alangudi,MTL,AlangudiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Karur,IGL 1,KarurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Adilabad,MTL,AdilabadMTL,200000,0,175000,,,,,,,,,,
+,,,,TN,Omalur,IGL 1,OmalurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,MH,Deori,MTL R,DeoriMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Ghoradongri,MTL R,GhoradongriMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Karur,MTL,KarurMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,R.S.Mangalam,MTL,R.S.MangalamMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Harur,IGL 1,HarurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Basavakalyan,IGL 2,BasavakalyanIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Honnalli,IGL 2,HonnalliIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MH,Omerga,MTL R,OmergaMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Vijayapura,MTL,VijayapuraMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Chitradurga,MTL,ChitradurgaMTL,250000,0,225000,,,,,,,,,,
+,,,,MP,Birsinghpur,MTL R,BirsinghpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Rampur Naikin,MTL R,Rampur NaikinMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Vijayraghavgarh,CTL,VijayraghavgarhCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Srirangapatna,CTL,SrirangapatnaCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Basavakalyan,MTL R,BasavakalyanMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Vazhapadi,IGL 1,VazhapadiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,HR,Pataudi,IGL 2,PataudiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Rampur Baghelan,MTL R,Rampur BaghelanMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Sidhi,MTL R,SidhiMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Karwi,MTL,KarwiMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Itwa,MTL,ItwaMTL,200000,0,175000,,,,,,,,,,
+,,,,KA,Gokak,MTL R,GokakMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Muthukulathur,MTL,MuthukulathurMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Muthukulathur,CTL,MuthukulathurCTL,300000,5000,300000,,,,,,,,,,
+,,,,CG,Bhanpuri,IGL 1,BhanpuriIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,HR,Hisar,IGL 1,HisarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Nizamabad,MTL,NizamabadMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Patan,MTL,PatanMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Tuljapur,IGL 2,TuljapurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Natham,IGL 2,NathamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Melur,IGL 2,MelurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MP,Kundam,IGL 2,KundamIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Kamareddy,IGL 1,KamareddyIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Haveri,CTL,HaveriCTL,300000,5000,300000,,,,,,,,,,
+,,,,UP,Rath,IGL 2,RathIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Karwi,IGL 2,KarwiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Tirumangalam,IGL 2,TirumangalamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Manamadurai,IGL 2,ManamaduraiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Karaikudi,IGL 2,KaraikudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,UP,Orai,IGL 2,OraiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Saoner,IGL 2,SaonerIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Forbesganj,IGL 2,ForbesganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Pakribarawan,IGL 2,PakribarawanIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,HR,Bhiwani,IGL 2,BhiwaniIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Dharapuram,IGL 2,DharapuramIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Pollachi,IGL 2,PollachiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Palladam,IGL 2,PalladamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Haveri,MTL,HaveriMTL,250000,0,225000,,,,,,,,,,
+,,,,CG,Sarangarh,MTL,SarangarhMTL,200000,0,175000,,,,,,,,,,
+,,,,HR,Narnaud,IGL 2,NarnaudIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Chhapra,IGL 2,ChhapraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,R.S.Mangalam,CTL,R.S.MangalamCTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Jangaon,IGL 1,JangaonIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Hangal,CTL,HangalCTL,300000,5000,300000,,,,,,,,,,
+,,,,MP,Vijayraghavgarh,IGL 2,VijayraghavgarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Marhaura,IGL 2,MarhauraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,New Ramnagar,MTL,New RamnagarMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Sidhipet,CTL,SidhipetCTL,250000,5000,250000,,,,,,,,,,
+,,,,MH,Mehkar,MTL,MehkarMTL,200000,0,175000,,,,,,,,,,
+,,,,BR,Patori,IGL 2,PatoriIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Kulithalai,MTL,KulithalaiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Keeranur,IGL 1,KeeranurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,MP,New Ramnagar,CTL,New RamnagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Thirukoilure,IGL 1,ThirukoilureIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Ichoda,MTL,IchodaMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Lalitpur,MTL R,LalitpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Nizamabad,CTL,NizamabadCTL,250000,5000,250000,,,,,,,,,,
+,,,,HR,Sirsa,IGL 1,SirsaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Sattur,MTL,SatturMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Chinnasalem,IGL 1,ChinnasalemIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Viluppuram,IGL 1,ViluppuramIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Kumbakonam,MTL,KumbakonamMTL,250000,0,225000,,,,,,,,,,
+,,,,TS,Karimnagar,CTL,KarimnagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Mancherial,MTL,MancherialMTL,250000,0,225000,,,,,,,,,,
+,,,,RJ,Deogarh,IGL 2,DeogarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Gharghoda,MTL R,GharghodaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Kundam,CTL,KundamCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Osian,MTL,OsianMTL,200000,0,175000,,,,,,,,,,
+,,,,TN,Manapparai,IGL 1,ManapparaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,BR,Raxaul,IGL 2,RaxaulIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Patan,CTL,PatanCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Bhupalpally,IGL 1,BhupalpallyIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Khagaznagar,CTL,KhagaznagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,BR,Raniganj,IGL 2,RaniganjIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Raigarh,MTL R,RaigarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Tuljapur,MTL R,TuljapurMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Hanamkonda,IGL 1,HanamkondaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Keeranur,MTL,KeeranurMTL,250000,0,225000,,,,,,,,,,
+,,,,RJ,Asind,IGL 2,AsindIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,HR,Mahendragarh,IGL 2,MahendragarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Raipur,MTL,RaipurMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Jagtial,CTL,JagtialCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Karwi,CTL,KarwiCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Keeranur,CTL,KeeranurCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Palani,IGL 2,PalaniIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,RJ,Mandalgarh,IGL 2,MandalgarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Jhunjhunu,IGL 2,JhunjhunuIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,New Ramnagar,IGL 2,New RamnagarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Sarangarh,IGL 2,SarangarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MP,Mangawan,MTL R,MangawanMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Koppal,MTL R,KoppalMTL R,300000,0,250000,,,,,,,,,,
+,,,,RJ,Raipur,CTL,RaipurCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Sujangarh,IGL 2,SujangarhIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Vazhapadi,IGL 2,VazhapadiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MH,Mehkar,MTL R,MehkarMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Hangal,MTL,HangalMTL,250000,0,225000,,,,,,,,,,
+,,,,UP,Itwa,CTL,ItwaCTL,250000,5000,250000,,,,,,,,,,
+,,,,HR,Narnaud,MTL R,NarnaudMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Mehkar,IGL 2,MehkarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Jhunjhunu,MTL R,JhunjhunuMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Lanji,IGL 2,LanjiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Bagalkote,CTL,BagalkoteCTL,300000,5000,300000,,,,,,,,,,
+,,,,MP,Kundam,MTL R,KundamMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Sikar,IGL 2,SikarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Raxaul,CTL,RaxaulCTL,250000,5000,250000,,,,,,,,,,
+,,,,UP,Karwi,MTL R,KarwiMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Deogarh,MTL R,DeogarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Banda,CTL,BandaCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Channagiri,CTL,ChannagiriCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Rajapalayam,IGL 2,RajapalayamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_K PUDUR,IGL 1,MT_K PUDURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SRIVILLIPUTHUR,IGL 1,MT_SRIVILLIPUTHURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_UDANKUDI,IGL 1,MT_UDANKUDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THINGAL NAGAR,IGL 1,MT_THINGAL NAGARIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PALAYAMKOTTAI,IGL 1,MT_PALAYAMKOTTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUTHANGAL,IGL 1,MT_THIRUTHANGALIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_TIRUCHENDUR,IGL 1,MT_TIRUCHENDURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUNAGAR,IGL 1,MT_THIRUNAGARIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_MATTAKADAI,IGL 1,MT_MATTAKADAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_RAJAPALAYAM,IGL 1,MT_RAJAPALAYAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PETTAI,IGL 1,MT_PETTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KILAKARAI,IGL 1,MT_KILAKARAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_AVANIYAPURAM,IGL 1,MT_AVANIYAPURAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_RAMESHWARAM,IGL 1,MT_RAMESHWARAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SUNDARAVELPURAM,IGL 1,MT_SUNDARAVELPURAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ARUMUGANERI,IGL 1,MT_ARUMUGANERIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_RAMANATHAPURAM,IGL 1,MT_RAMANATHAPURAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_TUTICORIN,IGL 1,MT_TUTICORINIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_VALLIYUR,IGL 1,MT_VALLIYURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ARALVAIMOZHI,IGL 1,MT_ARALVAIMOZHIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUMANGALAM,IGL 1,MT_THIRUMANGALAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ANJUGIRAMAM,IGL 1,MT_ANJUGIRAMAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_VANNARAPETTAI,IGL 1,MT_VANNARAPETTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_VILATHIKULAM,IGL 1,MT_VILATHIKULAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_AMBASAMUDRAM,IGL 1,MT_AMBASAMUDRAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KADALADI,IGL 1,MT_KADALADIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PATTUKOTTAI,IGL 1,MT_PATTUKOTTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THARUVAI,IGL 1,MT_THARUVAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THISYANVILLAI,IGL 1,MT_THISYANVILLAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_CHINNALAPATTI,IGL 1,MT_CHINNALAPATTIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SENKOTTAI,IGL 1,MT_SENKOTTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SURANDAI,IGL 1,MT_SURANDAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PALANI,IGL 1,MT_PALANIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_VEERAVANALLUR,IGL 1,MT_VEERAVANALLURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_TENKASI,IGL 1,MT_TENKASIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_BATLAGUNDU,IGL 1,MT_BATLAGUNDUIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KADAYAM,IGL 1,MT_KADAYAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_OTHAKADAI,IGL 1,MT_OTHAKADAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KOCHADAI,IGL 1,MT_KOCHADAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SIVAGANGAI,IGL 1,MT_SIVAGANGAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SANKARANKOVIL,IGL 1,MT_SANKARANKOVILIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PAVOORCHATRAM,IGL 1,MT_PAVOORCHATRAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ALANGANALLUR,IGL 1,MT_ALANGANALLURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SATHUR,IGL 1,MT_SATHURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_CHERANMAHADEVI,IGL 1,MT_CHERANMAHADEVIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUPPUVANAM,IGL 1,MT_THIRUPPUVANAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SIVAKASI,IGL 1,MT_SIVAKASIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUPPATHUR,IGL 1,MT_THIRUPPATHURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ALANGULAM,IGL 1,MT_ALANGULAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SINGAMPUNARI,IGL 1,MT_SINGAMPUNARIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THONDI,IGL 1,MT_THONDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ERAL,IGL 1,MT_ERALIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_WATRAP,IGL 1,MT_WATRAPIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ARUPPUKKOTTAI,IGL 1,MT_ARUPPUKKOTTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PARAMAKUDI,IGL 1,MT_PARAMAKUDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PULIYANGUDI,IGL 1,MT_PULIYANGUDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KADAYANALLUR,IGL 1,MT_KADAYANALLURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KOVILPATTY,IGL 1,MT_KOVILPATTYIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SITHURAJAPURAM,IGL 1,MT_SITHURAJAPURAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_VIRUDHUNAGAR,IGL 1,MT_VIRUDHUNAGARIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KAYATHAR,IGL 1,MT_KAYATHARIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_MAYILADUTHURAI,IGL 1,MT_MAYILADUTHURAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_MEENAKSHIPURAM,IGL 1,MT_MEENAKSHIPURAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ORATHANADU,IGL 1,MT_ORATHANADUIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ARANTHANGI,IGL 1,MT_ARANTHANGIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_MANAMELKUDI,IGL 1,MT_MANAMELKUDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUVARUR,IGL 1,MT_THIRUVARURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUTHURAIPOONDI,IGL 1,MT_THIRUTHURAIPOONDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SETHUR,IGL 1,MT_SETHURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,HR,Hisar,CTL,HisarCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Peddapalli,CTL,PeddapalliCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Orathanadu,MTL,OrathanaduMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Srirangapatna,MTL,SrirangapatnaMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_PUDUKKOTTAI,IGL 1,MT_PUDUKKOTTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_KANGEYAM,IGL 1,MT_KANGEYAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_NARIMEDU,IGL 1,MT_NARIMEDUIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_SHOLAVANDAN,IGL 1,MT_SHOLAVANDANIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_PALLADAM,IGL 1,MT_PALLADAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_CUMBUM,IGL 1,MT_CUMBUMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_UDUMALAIPETTAI,IGL 1,MT_UDUMALAIPETTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_CHINNAMANUR,IGL 1,MT_CHINNAMANURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_USILAMPATTI,IGL 1,MT_USILAMPATTIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_ANDIPATTI,IGL 1,MT_ANDIPATTIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Dharwad,MTL,DharwadMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_NAGERCOIL,IGL 1,MT_NAGERCOILIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUVERUMBUR,IGL 1,MT_THIRUVERUMBURIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_THENI,IGL 1,MT_THENIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_MANNARGUDI,IGL 1,MT_MANNARGUDIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_MANAPPARAI,IGL 1,MT_MANAPPARAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_NAGAPATTINAM,IGL 1,MT_NAGAPATTINAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN_MT,MT_YAGAPPANAGAR,IGL 1,MT_YAGAPPANAGARIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Nagarkurnool,IGL 1,NagarkurnoolIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Channagiri,MTL,ChannagiriMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_NATHAM,IGL 1,MT_NATHAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Peddapalli,MTL,PeddapalliMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Singhana,IGL 2,SinghanaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Jamkhandi,MTL,JamkhandiMTL,250000,0,225000,,,,,,,,,,
+,,,,TS,Khagaznagar,MTL,KhagaznagarMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Jagtial,MTL,JagtialMTL,200000,0,175000,,,,,,,,,,
+,,,,KA,Ranebennur,MTL R,RanebennurMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Jangaon,CTL,JangaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Patan,IGL 2,PatanIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,Honnalli,MTL R,HonnalliMTL R,300000,0,250000,,,,,,,,,,
+,,,,MP,Lanji,CTL,LanjiCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Alangudi,IGL 1,AlangudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Jagalur,MTL,JagalurMTL,250000,0,225000,,,,,,,,,,
+,,,,OD,Barapali,MTL,BarapaliMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Talbehat,MTL R,TalbehatMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Rath,CTL,RathCTL,250000,5000,250000,,,,,,,,,,
+,,,,RJ,Rajsamand,IGL 2,RajsamandIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,KA,K R Pete,IGL 1,K R PeteIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,KA,Bhalki,MTL R,BhalkiMTL R,300000,0,250000,,,,,,,,,,
+,,,,MH,NAIGAON,IGL 2,NAIGAONIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Orai,IGL 1,OraiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Amangal,IGL 1,AmangalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,BR,Patori,MTL R,PatoriMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Asind,MTL R,AsindMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Bhanpuri,MTL,BhanpuriMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Mandalgarh,MTL R,MandalgarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Karimnagar,MTL,KarimnagarMTL,200000,0,175000,,,,,,,,,,
+,,,,CG,Champa,MTL,ChampaMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Sujangarh,MTL R,SujangarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Jamkhandi,CTL,JamkhandiCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Bagalkote,MTL,BagalkoteMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Belagavi,IGL 2,BelagaviIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,CG,Bhanpuri,CTL,BhanpuriCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Sidhipet,MTL,SidhipetMTL,200000,0,175000,,,,,,,,,,
+,,,,MP,Vijayraghavgarh,MTL R,VijayraghavgarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Itwa,IGL 2,ItwaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Orai,CTL,OraiCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Champa,IGL 2,ChampaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,BR,Madhepura,MTL R,MadhepuraMTL R,250000,0,200000,,,,,,,,,,
+,,,,RJ,Degana,IGL 2,DeganaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Kamareddy,MTL,KamareddyMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Shorapur,MTL R,ShorapurMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Sedam,IGL 2,SedamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Sindhanur,MTL R,SindhanurMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Shimoga,MTL R,ShimogaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Shorapur,MTL R,ShorapurMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Belagavi,MTL R,BelagaviMTL R,300000,0,250000,,,,,,,,,,
+,,,,JH,Barhi,IGL 2,BarhiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Bhanpuri,IGL 2,BhanpuriIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Miryalaguda,IGL 1,MiryalagudaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Beawar,IGL 2,BeawarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Merta Road,IGL 2,Merta RoadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Rajsamand,MTL R,RajsamandMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Shadnagar,IGL 1,ShadnagarIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Chikodi,IGL 2,ChikodiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,HR,Fatehabad,IGL 1,FatehabadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Sattur,IGL 2,SatturIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,OD,Barapali,IGL 2,BarapaliIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,UP,Orai,MTL R,OraiMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Innyat nagar,MTL R,Innyat nagarMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Viluppuram,MTL,ViluppuramMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Keeranur,IGL 1,KeeranurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Nirmal,IGL 2,NirmalIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Jagalur,CTL,JagalurCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Kulithalai,CTL,KulithalaiCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN_MT,MT_NAGAPATTINAM,IGL 1,MT_NAGAPATTINAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Nalgonda,IGL 1,NalgondaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Georai,IGL 1,GeoraiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Bhanpuri,MTL R,BhanpuriMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Bah,IGL 1,BahIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Alangudi,IGL 1,AlangudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TS,Metpally,IGL 1,MetpallyIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Chitradurga,IGL 2,ChitradurgaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MH,Parola,IGL 1,ParolaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Karur,IGL 2,KarurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Adilabad,IGL 2,AdilabadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,CG,Champa,MTL R,ChampaMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Mahoba,MTL R,MahobaMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,Lanji,MTL R,LanjiMTL R,250000,0,200000,,,,,,,,,,
+,,,,BR,Marhaura,MTL R,MarhauraMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Alangudi,IGL 2,AlangudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Muthukulathur,IGL 2,MuthukulathurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Jangaon,MTL,JangaonMTL,200000,0,175000,,,,,,,,,,
+,,,,KA,Chikodi,MTL R,ChikodiMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Nirmal,MTL R,NirmalMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Rajapalayam,MTL R,RajapalayamMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Palani,MTL R,PalaniMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Sattur,MTL R,SatturMTL R,300000,0,250000,,,,,,,,,,
+,,,,BR,Gogri Jamalpur,MTL R,Gogri JamalpurMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Paramathi Velur,MTL,Paramathi VelurMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Manapparai,MTL,ManapparaiMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,R.S.Mangalam,IGL 2,R.S.MangalamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_WATRAP,MTL,MT_WATRAPMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Haveri,MTL R,HaveriMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Srirangapatna,MTL R,SrirangapatnaMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Mancherial,MTL R,MancherialMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Dharwad,MTL R,DharwadMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Adilabad,MTL R,AdilabadMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Khagaznagar,MTL R,KhagaznagarMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Kamareddy,MTL R,KamareddyMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Jagtial,MTL R,JagtialMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,R.S.Mangalam,MTL R,R.S.MangalamMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Karaikudi,MTL R,KaraikudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,RJ,Raipur,MTL R,RaipurMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Kumbakonam,MTL R,KumbakonamMTL R,300000,0,250000,,,,,,,,,,
+,,,,HR,Hisar,MTL R,HisarMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Karimnagar,MTL R,KarimnagarMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Saiyan,IGL 1,SaiyanIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,HR,Hisar,MTL,HisarMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Gangapur,IGL 1,GangapurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TS,Chennur,IGL 1,ChennurIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Thirukoilure,MTL,ThirukoilureMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Vijayapura,IGL 2,VijayapuraIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Chitradurga,MTL R,ChitradurgaMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Haveri,IGL 2,HaveriIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,UP,Goverdhan,IGL 1,GoverdhanIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Srirangapatna,IGL 2,SrirangapatnaIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Alangudi,IGL 1,AlangudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,RJ,Raipur,IGL 2,RaipurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Nizamabad,IGL 2,NizamabadIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Kamareddy,CTL,KamareddyCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Ichoda,IGL 2,IchodaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Mul,IGL 1,MulIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Channagiri,IGL 2,ChannagiriIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MH,Georai,IGL 2,GeoraiIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Omalur,CTL,OmalurCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Hangal,IGL 2,HangalIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Mancherial,IGL 2,MancherialIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,RJ,Osian,IGL 2,OsianIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Georai,MTL,GeoraiMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Hanamkonda,MTL,HanamkondaMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Georai,MTL R,GeoraiMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Kumbakonam,IGL 2,KumbakonamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,HR,Kalanwali,IGL 1,KalanwaliIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Itwa,MTL R,ItwaMTL R,250000,0,200000,,,,,,,,,,
+,,,,HR,Sirsa,MTL,SirsaMTL,200000,0,175000,,,,,,,,,,
+,,,,TN,Omalur,MTL,OmalurMTL,250000,0,225000,,,,,,,,,,
+,,,,UP,Farah,IGL 1,FarahIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Shikohabad,IGL 1,ShikohabadIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN_MT,MT_RAMESHWARAM,IGL 1,MT_RAMESHWARAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TN,Harur,MTL,HarurMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Vazhapadi,MTL,VazhapadiMTL,250000,0,225000,,,,,,,,,,
+,,,,MH,Parola,IGL 2,ParolaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Parola,MTL R,ParolaMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Nagarkurnool,MTL,NagarkurnoolMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Parola,MTL,ParolaMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Bhupalpally,MTL,BhupalpallyMTL,200000,0,175000,,,,,,,,,,
+,,,,TN,Chinnasalem,MTL,ChinnasalemMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Kulithalai,IGL 2,KulithalaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUTHANGAL,MTL,MT_THIRUTHANGALMTL,250000,0,225000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_MANAPPARAI,MTL,MT_MANAPPARAIMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Jamkhandi,IGL 2,JamkhandiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Dharwad,IGL 2,DharwadIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,RJ,Beawar,MTL R,BeawarMTL R,250000,0,200000,,,,,,,,,,
+,,,,MP,New Ramnagar,MTL R,New RamnagarMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN_MT,MT_OTHAKADAI,MTL,MT_OTHAKADAIMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_KILAKARAI,MTL,MT_KILAKARAIMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_SITHURAJAPURAM,MTL,MT_SITHURAJAPURAMMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUMANGALAM,MTL,MT_THIRUMANGALAMMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_SIVAKASI,MTL,MT_SIVAKASIMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_SATHUR,MTL,MT_SATHURMTL,250000,0,225000,,,,,,,,,,
+,,,,TS,Gadwal,IGL 1,GadwalIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN_MT,MT_UDUMALAIPETTAI,IGL 1,MT_UDUMALAIPETTAIIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,CG,Basna,IGL 1,BasnaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,KA,Bagalkote,IGL 2,BagalkoteIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,MH,Gangapur,MTL R,GangapurMTL R,250000,0,200000,,,,,,,,,,
+,,,,TS,Sidhipet,IGL 2,SidhipetIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,MH,Gangapur,IGL 2,GangapurIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN_MT,MT_ARANTHANGI,IGL 2,MT_ARANTHANGIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Bhupalpally,IGL 2,BhupalpallyIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Kamareddy,IGL 2,KamareddyIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Jangaon,IGL 2,JangaonIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Peddapalli,IGL 2,PeddapalliIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TS,Hanamkonda,IGL 2,HanamkondaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Thirukoilure,IGL 2,ThirukoilureIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Karimnagar,IGL 2,KarimnagarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN_MT,MT_KAYATHAR,IGL 2,MT_KAYATHARIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_TENKASI,IGL 2,MT_TENKASIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PALANI,IGL 2,MT_PALANIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Khagaznagar,IGL 2,KhagaznagarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Viluppuram,IGL 2,ViluppuramIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_NARIMEDU,IGL 2,MT_NARIMEDUIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_K PUDUR,IGL 2,MT_K PUDURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Karur,MTL R,KarurMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Chinnasalem,IGL 2,ChinnasalemIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,KA,Jagalur,IGL 2,JagalurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,CG,Bhatapara,IGL 1,BhataparaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN_MT,MT_SHOLAVANDAN,IGL 2,MT_SHOLAVANDANIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_YAGAPPANAGAR,IGL 2,MT_YAGAPPANAGARIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_OTHAKADAI,IGL 2,MT_OTHAKADAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KOCHADAI,IGL 2,MT_KOCHADAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KADALADI,IGL 2,MT_KADALADIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Keeranur,IGL 2,KeeranurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Manapparai,IGL 2,ManapparaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Jagtial,IGL 2,JagtialIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Omalur,IGL 2,OmalurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Harur,IGL 2,HarurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ANDIPATTI,IGL 2,MT_ANDIPATTIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Rasipuram,IGL 2,RasipuramIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Kulithalai,MTL R,KulithalaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN_MT,MT_CHINNALAPATTI,IGL 2,MT_CHINNALAPATTIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THENI,IGL 2,MT_THENIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_MANAMELKUDI,IGL 2,MT_MANAMELKUDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,CG,Bemetara,IGL 1,BemetaraIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN_MT,MT_MANAPPARAI,IGL 2,MT_MANAPPARAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KANGEYAM,IGL 2,MT_KANGEYAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KAYATHAR,MTL,MT_KAYATHARMTL ,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_USILAMPATTI,IGL 2,MT_USILAMPATTIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_KAYATHAR,MTL,MT_KAYATHARMTL,250000,0,225000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_NATHAM,CTL,MT_NATHAMCTL,300000,5000,300000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_USILAMPATTI,MTL,MT_USILAMPATTIMTL,250000,0,225000,,,,,,,,,,
+,,,,CG,Sarangarh,MTL R,SarangarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,HR,Hisar,IGL 2,HisarIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Pollachi,IGL 2,PollachiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Paramathi Velur,IGL 2,Paramathi VelurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Orathanadu,IGL 2,OrathanaduIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Sattur,IGL 2,SatturIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,HR,Sirsa,IGL 2,SirsaIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN_MT,MT_NATHAM,IGL 2,MT_NATHAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN,Muthukulathur,IGL 2,MuthukulathurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUMANGALAM,IGL 2,MT_THIRUMANGALAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THINGAL NAGAR,IGL 2,MT_THINGAL NAGARIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PALAYAMKOTTAI,IGL 2,MT_PALAYAMKOTTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ARALVAIMOZHI,IGL 2,MT_ARALVAIMOZHIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_VILATHIKULAM,IGL 2,MT_VILATHIKULAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUTHANGAL,IGL 2,MT_THIRUTHANGALIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_RAJAPALAYAM,IGL 2,MT_RAJAPALAYAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_UDANKUDI,IGL 2,MT_UDANKUDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_TIRUCHENDUR,IGL 2,MT_TIRUCHENDURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_AMBASAMUDRAM,IGL 2,MT_AMBASAMUDRAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SURANDAI,IGL 2,MT_SURANDAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_BATLAGUNDU,IGL 2,MT_BATLAGUNDUIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ALANGANALLUR,IGL 2,MT_ALANGANALLURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_MATTAKADAI,IGL 2,MT_MATTAKADAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SIVAGANGAI,IGL 2,MT_SIVAGANGAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SINGAMPUNARI,IGL 2,MT_SINGAMPUNARIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THARUVAI,IGL 2,MT_THARUVAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_CHERANMAHADEVI,IGL 2,MT_CHERANMAHADEVIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SANKARANKOVIL,IGL 2,MT_SANKARANKOVILIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUNAGAR,IGL 2,MT_THIRUNAGARIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_VANNARAPETTAI,IGL 2,MT_VANNARAPETTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PETTAI,IGL 2,MT_PETTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KADAYAM,IGL 2,MT_KADAYAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ALANGULAM,IGL 2,MT_ALANGULAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PARAMAKUDI,IGL 2,MT_PARAMAKUDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THONDI,IGL 2,MT_THONDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SUNDARAVELPURAM,IGL 2,MT_SUNDARAVELPURAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SITHURAJAPURAM,IGL 2,MT_SITHURAJAPURAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_TUTICORIN,IGL 2,MT_TUTICORINIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_VIRUDHUNAGAR,IGL 2,MT_VIRUDHUNAGARIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUVARUR,IGL 2,MT_THIRUVARURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_MEENAKSHIPURAM,IGL 2,MT_MEENAKSHIPURAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KILAKARAI,IGL 2,MT_KILAKARAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PULIYANGUDI,IGL 2,MT_PULIYANGUDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUPPUVANAM,IGL 2,MT_THIRUPPUVANAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ARUMUGANERI,IGL 2,MT_ARUMUGANERIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ARUPPUKKOTTAI,IGL 2,MT_ARUPPUKKOTTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ORATHANADU,IGL 2,MT_ORATHANADUIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_MAYILADUTHURAI,IGL 2,MT_MAYILADUTHURAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_KADAYANALLUR,IGL 2,MT_KADAYANALLURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ARANTHANGI,IGL 2,MT_ARANTHANGIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PALLADAM,IGL 2,MT_PALLADAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUTHURAIPOONDI,IGL 2,MT_THIRUTHURAIPOONDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SENKOTTAI,IGL 2,MT_SENKOTTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_NAGERCOIL,IGL 2,MT_NAGERCOILIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_UDUMALAIPETTAI,IGL 2,MT_UDUMALAIPETTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUVERUMBUR,IGL 2,MT_THIRUVERUMBURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_VEERAVANALLUR,IGL 2,MT_VEERAVANALLURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_NAGAPATTINAM,IGL 2,MT_NAGAPATTINAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SATHUR,IGL 2,MT_SATHURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THISYANVILLAI,IGL 2,MT_THISYANVILLAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_MANNARGUDI,IGL 2,MT_MANNARGUDIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_VALLIYUR,IGL 2,MT_VALLIYURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PATTUKOTTAI,IGL 2,MT_PATTUKOTTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PUDUKKOTTAI,IGL 2,MT_PUDUKKOTTAIIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_CHINNAMANUR,IGL 2,MT_CHINNAMANURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ANJUGIRAMAM,IGL 2,MT_ANJUGIRAMAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SETHUR,IGL 2,MT_SETHURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_PAVOORCHATRAM,IGL 2,MT_PAVOORCHATRAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,Nagarkurnool,IGL 2,NagarkurnoolIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_CUMBUM,IGL 2,MT_CUMBUMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_THIRUPPATHUR,IGL 2,MT_THIRUPPATHURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_AVANIYAPURAM,IGL 2,MT_AVANIYAPURAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_ERAL,IGL 2,MT_ERALIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_NATHAM,IGL 2,MT_NATHAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_WATRAP,IGL 2,MT_WATRAPIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_RAMANATHAPURAM,IGL 2,MT_RAMANATHAPURAMIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,Fatehabad,IGL 2,FatehabadIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Amangal,MTL,AmangalMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Peddapalli,MTL R,PeddapalliMTL R,250000,0,200000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_RAJAPALAYAM,MTL,MT_RAJAPALAYAMMTL,250000,0,225000,,,,,,,,,,
+,,,,TS,Metpally,MTL,MetpallyMTL,200000,0,175000,,,,,,,,,,
+,,,,UP,Moth,MTL R,MothMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Rasipuram,MTL,RasipuramMTL,250000,0,225000,,,,,,,,,,
+,,,,KA,Hangal,MTL R,HangalMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Bagalkote,MTL R,BagalkoteMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Narsampet,IGL 1,NarsampetIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Parola,CTL,ParolaCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Jamkhandi,MTL R,JamkhandiMTL R,300000,0,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_THIRUTHANGAL,CTL,MT_THIRUTHANGALCTL,300000,5000,300000,,,,,,,,,,
+,,,,KA,Channagiri,MTL R,ChannagiriMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Manapparai,CTL,ManapparaiCTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Shadnagar,MTL,ShadnagarMTL,200000,0,175000,,,,,,,,,,
+,,,,KA,Sedam,MTL R,SedamMTL R,300000,0,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_K PUDUR,MTL,MT_K PUDURMTL,250000,0,225000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_THIRUMANGALAM,CTL,MT_THIRUMANGALAMCTL,300000,5000,300000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_THIRUVARUR,MTL,MT_THIRUVARURMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Sattur,IGL 2,SatturIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TS,Nagarkurnool,CTL,NagarkurnoolCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Patan,MTL R,PatanMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Paramathi Velur,MTL R,Paramathi VelurMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Sidhipet,MTL R,SidhipetMTL R,250000,0,200000,,,,,,,,,,
+,,,,TN,Chinnasalem,MTL R,ChinnasalemMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Nizamabad,MTL R,NizamabadMTL R,250000,0,200000,,,,,,,,,,
+,,,,CG,Bemetara,IGL 2,BemetaraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,TN,Viluppuram,MTL R,ViluppuramMTL R,300000,0,250000,,,,,,,,,,
+,,,,KA,Vijayapura,MTL R,VijaypuraMTL R,300000,0,250000,,,,,,,,,,
+,,,,TS,Hanamkonda,MTL R,HanamkondaMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Rath,MTL R,RathMTL R,250000,0,200000,,,,,,,,,,
+,,,,HR,TOHANA,IGL 1,TOHANAIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,BR,Bihariganj,MTL R,BihariganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_ARALVAIMOZHI,MTL,MT_ARALVAIMOZHIMTL,250000,0,225000,,,,,,,,,,
+,,,,CG,Bemetara,MTL,BemetaraMTL,200000,0,175000,,,,,,,,,,
+,,,,HR,Fatehabad,MTL,FatehabadMTL,200000,0,175000,,,,,,,,,,
+,,,,MH,Gangapur,MTL,GangapurMTL,200000,0,175000,,,,,,,,,,
+,,,,TS,Metpally,CTL,MetpallyCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Miryalaguda,MTL,MiryalagudaMTL,200000,0,175000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_KAYATHAR,CTL,MT_KAYATHARCTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Nalgonda,MTL,NalgondaMTL,200000,0,175000,,,,,,,,,,
+,,,,RJ,Merta Road,MTL R,Merta RoadMTL R,250000,0,200000,,,,,,,,,,
+,,,,MH,Gondpipri,IGL 1,GondpipriIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TN,Muthukulathur,MTL R,MuthukulathurMTL R,300000,0,250000,,,,,,,,,,
+,,,,TN,Rasipuram,MTL R,RasipuramMTL R,300000,0,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_SIVAGANGAI,MTL,MT_SIVAGANGAIMTL,250000,0,225000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_THIRUPPUVANAM,MTL,MT_THIRUPPUVANAMMTL,250000,0,225000,,,,,,,,,,
+,,,,MH,Georai,CTL,GeoraiCTL,250000,5000,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_MANAPPARAI,CTL,MT_MANAPPARAICTL,300000,5000,300000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_ARANTHANGI,MTL,MT_ARANTHANGIMTL,250000,0,225000,,,,,,,,,,
+,,,,HR,Sirsa,CTL,SirsaCTL,250000,5000,250000,,,,,,,,,,
+,,,,HR,Sirsa,CTL,SirsaCTL,250000,5000,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_MANNARGUDI,CTL,MT_MANNARGUDICTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Miryalaguda,CTL,MiryalagudaCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Karur,CTL,KarurCTL,300000,5000,300000,,,,,,,,,,
+,,,,TS,Nalgonda,CTL,NalgondaCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Yellandu,IGL 1,YellanduIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,MH,Washim,IGL 1,WashimIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,RJ,Osian,CTL,OsianCTL,250000,5000,250000,,,,,,,,,,
+,,,,TS,Hanamkonda,CTL,HanamkondaCTL,250000,5000,250000,,,,,,,,,,
+,,,,KA,Dharwad,CTL,DharwadCTL,300000,5000,300000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_NAGAPATTINAM,MTL,MT_NAGAPATTINAMMTL,250000,0,225000,,,,,,,,,,
+,,,,MH,Gangapur,CTL,GangapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,TN,Bhupalpally,CTL,BhupalpallyCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN,Manapparai,MTL R,ManapparaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,OD,Barapali,MTL R,BarapaliMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Etah,IGL 1,EtahIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,UP,Dibai,IGL 1,DibaiIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,CG,Bemetara,CTL,BemetaraCTL,250000,5000,250000,,,,,,,,,,
+,,,,CG,Bemetara,MTL R,BemetaraMTL R,250000,0,200000,,,,,,,,,,
+,,,,UP,Sasni,IGL 1,SasniIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_KOVILPATTY,MTL,MT_KOVILPATTYMTL,250000,0,225000,,,,,,,,,,
+,,,,TN_MT,MT_KOVILPATTY,IGL 2,MT_KOVILPATTYIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TN_MT,MT_SRIVILLIPUTHUR,IGL 2,MT_SRIVILLIPUTHURIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_SRIVILLIPUTHUR,MTL,MT_SRIVILLIPUTHURMTL,250000,0,225000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_KOVILPATTY,CTL,MT_KOVILPATTYCTL,300000,5000,300000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_AVANIYAPURAM,MTL,MT_AVANIYAPURAMMTL,250000,0,225000,,,,,,,,,,
+,,,,TN,Vazhapadi,CTL,VazhapadiCTL,300000,5000,300000,,,,,,,,,,
+,,,,TN_MT,MT_KADAYAM,IGL 1,MT_KADAYAMIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_ARANTHANGI,CTL,MT_ARANTHANGICTL,300000,5000,300000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_ALANGANALLUR,MTL,MT_ALANGANALLURMTL,250000,0,225000,,,,,,,,,,
+,,,,BR,Raniganj,MTL R,RaniganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,KA,Vijayapura,MTL R,VijayapuraMTL R,300000,0,250000,,,,,,,,,,
+,,,,RJ,Osian,MTL R,OsianMTL R,250000,0,200000,,,,,,,,,,
+,,,,TamilNadu_MT,MT_PATTUKOTTAI,MTL,MT_PATTUKOTTAIMTL,250000,0,225000,,,,,,,,,,
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,IGL 2,MetpallyIGL 2,300000,3000,250000,,,,,,,,,,Metpally
+,,,,,,IGL 2,Mt_sivakasiIGL 2,300000,3000,250000,,,,,,,,,,Mt_sivakasi
+,,,,,,IGL 2,NalgondaIGL 2,300000,3000,250000,,,,,,,,,,Nalgonda
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_chinnamanurMTL,250000,0,225000,,,,,,,,,,Mt_chinnamanur
+,,,,,,IGL 2,MiryalagudaIGL 2,300000,3000,250000,,,,,,,,,,Miryalaguda
+,,,,,,IGL 2,ShadnagarIGL 2,300000,3000,250000,,,,,,,,,,Shadnagar
+,,,,,,MTL,Mt_sethurMTL,250000,0,225000,,,,,,,,,,Mt_sethur
+,,,,,,MTL,Mt_kadayanallurMTL,250000,0,225000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_batlagunduMTL,250000,0,225000,,,,,,,,,,Mt_batlagundu
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_thiruverumburMTL,250000,0,225000,,,,,,,,,,Mt_thiruverumbur
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL R,Mt_thiruthuraipoondiMTL R,300000,0,250000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_rameshwaramMTL,250000,0,225000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_mayiladuthuraiMTL,250000,0,225000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL R,Mt_tiruchendurMTL R,300000,0,250000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_arumuganeriMTL R,300000,0,250000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL R,Mt_thirunagarMTL R,300000,0,250000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL R,Mt_srivilliputhurMTL R,300000,0,250000,,,,,,,,,,Mt_srivilliputhur
+,,,,,,MTL,Mt_pettaiMTL,250000,0,225000,,,,,,,,,,Mt_pettai
+,,,,,,MTL R,Mt_thiruppathurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL R,HarurMTL R,300000,0,250000,,,,,,,,,,Harur
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL R,Mt_narimeduMTL R,300000,0,250000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL R,Mt_pettaiMTL R,300000,0,250000,,,,,,,,,,Mt_pettai
+,,,,,,MTL R,Mt_mannargudiMTL R,300000,0,250000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL R,Mt_senkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL R,Mt_nagapattinamMTL R,300000,0,250000,,,,,,,,,,Mt_nagapattinam
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_veeravanallurMTL,250000,0,225000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_mattakadaiMTL R,300000,0,250000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL R,Mt_cheranmahadeviMTL R,300000,0,250000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL R,Mt_kadayamMTL R,300000,0,250000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_pudukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_pudukkottai
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL,Mt_ramanathapuramMTL,250000,0,225000,,,,,,,,,,Mt_ramanathapuram
+,,,,,,MTL R,Mt_veeravanallurMTL R,300000,0,250000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL R,Mt_alangulamMTL R,300000,0,250000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL R,Mt_palayamkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL R,Mt_pavoorchatramMTL R,300000,0,250000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL R,OrathanaduMTL R,300000,0,250000,,,,,,,,,,Orathanadu
+,,,,,,MTL R,Mt_aranthangiMTL R,300000,0,250000,,,,,,,,,,Mt_aranthangi
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,Mt_sivakasi,MTL R,Mt_sivakasiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Bhatapara,MTL,BhataparaMTL,200000,0,175000,,,,,,,,,,
+,,,,,Manapparai,MTL R,ManapparaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Chakarbhatha,IGL 1,ChakarbhathaIGL 1,200000,3000,175000,,,,,,,,,,
+,,,,,Mt_sankarankovil,MTL R,Mt_sankarankovilMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Bagaha,CTL,BagahaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mt_virudhunagar,CTL,Mt_virudhunagarCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Mt_narimedu,CTL,Mt_narimeduCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Mt_kovilpatty,MTL R,Mt_kovilpattyMTL R,300000,0,250000,,,,,,,,,,
+,,,,,,IGL 2,Mt_sivakasiIGL 2,300000,3000,250000,,,,,,,,,,Mt_sivakasi
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,IGL 2,MetpallyIGL 2,300000,3000,250000,,,,,,,,,,Metpally
+,,,,,,IGL 2,NalgondaIGL 2,300000,3000,250000,,,,,,,,,,Nalgonda
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,IGL 2,MiryalagudaIGL 2,300000,3000,250000,,,,,,,,,,Miryalaguda
+,,,,,,IGL 2,ShadnagarIGL 2,300000,3000,250000,,,,,,,,,,Shadnagar
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL R,Mt_narimeduMTL R,300000,0,250000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_batlagunduMTL,250000,0,225000,,,,,,,,,,Mt_batlagundu
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_arumuganeriMTL R,300000,0,250000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL R,Mt_srivilliputhurMTL R,300000,0,250000,,,,,,,,,,Mt_srivilliputhur
+,,,,,,MTL,Mt_pettaiMTL,250000,0,225000,,,,,,,,,,Mt_pettai
+,,,,,,MTL R,Mt_thiruppathurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_mayiladuthuraiMTL,250000,0,225000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_sethurMTL,250000,0,225000,,,,,,,,,,Mt_sethur
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_mattakadaiMTL R,300000,0,250000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL,Mt_pudukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_pudukkottai
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL R,Mt_palayamkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL R,Mt_thiruvarurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruvarur
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL R,Mt_udankudiMTL R,300000,0,250000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL R,Mt_sithurajapuramMTL R,300000,0,250000,,,,,,,,,,Mt_sithurajapuram
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL R,Mt_eralMTL R,300000,0,250000,,,,,,,,,,Mt_eral
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL R,Mt_virudhunagarMTL R,300000,0,250000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_chinnamanurMTL,250000,0,225000,,,,,,,,,,Mt_chinnamanur
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,Gadchandur,CTL,GadchandurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Chhatapur,CTL,ChhatapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Itwa,MTL R,ItwaMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Mt_udumalaipettai,MTL R,Mt_udumalaipettaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Kodala,CTL,KodalaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mt_manamelkudi,MTL R,Mt_manamelkudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Kumbakonam,CTL,KumbakonamCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Mt_kochadai,MTL R,Mt_kochadaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Mul,MTL,MulMTL,200000,0,175000,,,,,,,,,,
+,,,,,Mt_sethur,MTL R,Mt_sethurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,,MTL R,Mt_aralvaimozhiMTL R,300000,0,250000,,,,,,,,,,Mt_aralvaimozhi
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,MTL,ChennurMTL,250000,0,225000,,,,,,,,,,Chennur
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,IGL 2,MetpallyIGL 2,300000,3000,250000,,,,,,,,,,Metpally
+,,,,,,IGL 2,NalgondaIGL 2,300000,3000,250000,,,,,,,,,,Nalgonda
+,,,,,,IGL 2,MiryalagudaIGL 2,300000,3000,250000,,,,,,,,,,Miryalaguda
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_pettaiMTL,250000,0,225000,,,,,,,,,,Mt_pettai
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_sethurMTL,250000,0,225000,,,,,,,,,,Mt_sethur
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL R,Mt_thiruppathurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_mattakadaiMTL R,300000,0,250000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL,Mt_pudukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_pudukkottai
+,,,,,,MTL R,Mt_palayamkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL R,Mt_sithurajapuramMTL R,300000,0,250000,,,,,,,,,,Mt_sithurajapuram
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL,Mt_mayiladuthuraiMTL,250000,0,225000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_batlagunduMTL,250000,0,225000,,,,,,,,,,Mt_batlagundu
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL,NarsampetMTL,250000,0,225000,,,,,,,,,,Narsampet
+,,,,,,MTL R,Mt_thirunagarMTL R,300000,0,250000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL R,Mt_kadayamMTL R,300000,0,250000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL R,Mt_kangeyamMTL R,300000,0,250000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_veeravanallurMTL,250000,0,225000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL R,Mt_anjugiramamMTL R,300000,0,250000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL R,Mt_cheranmahadeviMTL R,300000,0,250000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,BasnaMTL,200000,0,175000,,,,,,,,,,Basna
+,,,,,,MTL R,Mt_thiruvarurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruvarur
+,,,,,,MTL R,JagalurMTL R,300000,0,250000,,,,,,,,,,Jagalur
+,,,,,Sidhipet,MTL R,SidhipetMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Puliyangudi,IGL 1,PuliyangudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Tharuvai,IGL 2,TharuvaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Pudukkottai,IGL 1,PudukkottaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thirunagar,IGL 1,ThirunagarIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Nagapattinam,IGL 2,NagapattinamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thiruvarur,IGL 1,ThiruvarurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Sethur,IGL 1,SethurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thiruppathur,IGL 1,ThiruppathurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thingal nagar,IGL 2,Thingal nagarIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kochadai,IGL 2,KochadaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Palayamkottai,IGL 2,PalayamkottaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Watrap,IGL 2,WatrapIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Anjugiramam,IGL 2,AnjugiramamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Sholavandan,IGL 2,SholavandanIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thiruppathur,IGL 2,ThiruppathurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thiruppuvanam,IGL 2,ThiruppuvanamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kilakarai,IGL 2,KilakaraiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Manamelkudi,IGL 2,ManamelkudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thisyanvillai,MTL,ThisyanvillaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Tuticorin,MTL,TuticorinMTL,250000,0,225000,,,,,,,,,,
+,,,,,Srivilliputhur,MTL,SrivilliputhurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Cheranmahadevi,IGL 1,CheranmahadeviIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Anjugiramam,MTL,AnjugiramamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Mannargudi,MTL,MannargudiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Kadaladi,MTL,KadaladiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thiruppuvanam,MTL,ThiruppuvanamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Surandai,IGL 1,SurandaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Arumuganeri,IGL 1,ArumuganeriIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Aranthangi,IGL 1,AranthangiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thiruverumbur,MTL,ThiruverumburMTL,250000,0,225000,,,,,,,,,,
+,,,,,Arumuganeri,MTL,ArumuganeriMTL,250000,0,225000,,,,,,,,,,
+,,,,,Udankudi,MTL,UdankudiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Batlagundu,MTL,BatlagunduMTL,250000,0,225000,,,,,,,,,,
+,,,,,Gondpipri,MTL,GondpipriMTL,200000,0,175000,,,,,,,,,,
+,,,,,Aranthangi,MTL,AranthangiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thingal nagar,MTL,Thingal nagarMTL,250000,0,225000,,,,,,,,,,
+,,,,,Narimedu,MTL,NarimeduMTL,250000,0,225000,,,,,,,,,,
+,,,,,Nagapattinam,MTL,NagapattinamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Virudhunagar,MTL,VirudhunagarMTL,250000,0,225000,,,,,,,,,,
+,,,,,Chinnamanur,MTL,ChinnamanurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Pettai,MTL,PettaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Udumalaipettai,MTL,UdumalaipettaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Dharapuram,MTL,DharapuramMTL,250000,0,225000,,,,,,,,,,
+,,,,,Mahendragarh,MTL R,MahendragarhMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Valliyur,MTL,ValliyurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Gangavathi,MTL,GangavathiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thiruthuraipoondi,MTL R,ThiruthuraipoondiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thirunagar,MTL,ThirunagarMTL,250000,0,225000,,,,,,,,,,
+,,,,,Eral,MTL,EralMTL,250000,0,225000,,,,,,,,,,
+,,,,,Narimedu,MTL R,NarimeduMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Andipatti,MTL,AndipattiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Kangeyam,MTL,KangeyamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Alangulam,MTL,AlangulamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Andipatti,MTL R,AndipattiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thiruvarur,MTL,ThiruvarurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Chinnalapatti,MTL R,ChinnalapattiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Narnaud,CTL,NarnaudCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Sillod,CTL,SillodCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Senkottai,MTL,SenkottaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Pattukottai,MTL,PattukottaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Mattakadai,MTL,MattakadaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Veeravanallur,MTL,VeeravanallurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Rameshwaram,MTL,RameshwaramMTL,250000,0,225000,,,,,,,,,,
+,,,,,Tharuvai,MTL,TharuvaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Ballari,CTL,BallariCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Aruppukkottai,MTL,AruppukkottaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Sholavandan,MTL,SholavandanMTL,250000,0,225000,,,,,,,,,,
+,,,,,Sivakasi,IGL 1,SivakasiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Sithurajapuram,MTL,SithurajapuramMTL,250000,0,225000,,,,,,,,,,
+,,,,,Sithurajapuram,MTL R,SithurajapuramMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Kadayanallur,MTL,KadayanallurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Kadayam,MTL,KadayamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Usilampatti,IGL 1,UsilampattiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Kilakarai,MTL,KilakaraiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Surandai,MTL,SurandaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Saoner,CTL,SaonerCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Sivakasi,MTL R,SivakasiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Manamelkudi,MTL R,ManamelkudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL,Mt_thiruverumburMTL,250000,0,225000,,,,,,,,,,Mt_thiruverumbur
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL R,OrathanaduMTL R,300000,0,250000,,,,,,,,,,Orathanadu
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_udankudiMTL R,300000,0,250000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL R,Mt_virudhunagarMTL R,300000,0,250000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_andipattiMTL,250000,0,225000,,,,,,,,,,Mt_andipatti
+,,,,,,MTL R,Mt_thisyanvillaiMTL R,300000,0,250000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_pettaiMTL,250000,0,225000,,,,,,,,,,Mt_pettai
+,,,,,,MTL R,Mt_thiruthuraipoondiMTL R,300000,0,250000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL R,Mt_thiruppuvanamMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppuvanam
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL R,Mt_veeravanallurMTL R,300000,0,250000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL R,Mt_usilampattiMTL R,300000,0,250000,,,,,,,,,,Mt_usilampatti
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_sethurMTL,250000,0,225000,,,,,,,,,,Mt_sethur
+,,,,,,MTL,Mt_pudukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_pudukkottai
+,,,,,,IGL 1,Patan mpIGL 1,200000,3000,175000,,,,,,,,,,Patan mp
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL,Mt_rameshwaramMTL,250000,0,225000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_thondiMTL,250000,0,225000,,,,,,,,,,Mt_thondi
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_batlagunduMTL,250000,0,225000,,,,,,,,,,Mt_batlagundu
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL R,Mt_andipattiMTL R,300000,0,250000,,,,,,,,,,Mt_andipatti
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,Deulgaon raja,CTL,Deulgaon rajaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Basmat,MTL,BasmatMTL,200000,0,175000,,,,,,,,,,
+,,,,,Valliyur,IGL 1,ValliyurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Paramakudi,IGL 2,ParamakudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Ambasamudram,IGL 2,AmbasamudramIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thirunagar,IGL 2,ThirunagarIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Pavoorchatram,IGL 2,PavoorchatramIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Senkottai,IGL 2,SenkottaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Valliyur,IGL 2,ValliyurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Mannargudi,IGL 2,MannargudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Nagercoil,IGL 2,NagercoilIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Tuticorin,IGL 2,TuticorinIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kadayanallur,IGL 1,KadayanallurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Udumalaipettai,IGL 2,UdumalaipettaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Cumbum,IGL 2,CumbumIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Sankarankovil,IGL 2,SankarankovilIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Pavoorchatram,MTL,PavoorchatramMTL,250000,0,225000,,,,,,,,,,
+,,,,,Ambasamudram,MTL,AmbasamudramMTL,250000,0,225000,,,,,,,,,,
+,,,,,Tharuvai,IGL 1,TharuvaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Singampunari,IGL 1,SingampunariIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Palayamkottai,MTL,PalayamkottaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Andipatti,IGL 1,AndipattiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Tiruchendur,MTL,TiruchendurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thondi,MTL,ThondiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Pavoorchatram,IGL 1,PavoorchatramIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Kochadai,MTL,KochadaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thiruthuraipoondi,MTL,ThiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Cheranmahadevi,MTL,CheranmahadeviMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thingal nagar,MTL R,Thingal nagarMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thiruppuvanam,CTL,ThiruppuvanamCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Samastipur,CTL,SamastipurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Cumbum,MTL,CumbumMTL,250000,0,225000,,,,,,,,,,
+,,,,,Khagaria,MTL,KhagariaMTL,200000,0,175000,,,,,,,,,,
+,,,,,Jagdalpur,CTL,JagdalpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Aralvaimozhi,MTL,AralvaimozhiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thisyanvillai,MTL R,ThisyanvillaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Sirwar,CTL,SirwarCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Thisyanvillai,IGL 1,ThisyanvillaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Kadaladi,MTL R,KadaladiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Nizamabad,MTL R,NizamabadMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Pudukkottai,CTL,PudukkottaiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Tetri bazar,CTL,Tetri bazarCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Nagercoil,MTL,NagercoilMTL,250000,0,225000,,,,,,,,,,
+,,,,,Chinnalapatti,MTL,ChinnalapattiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thirunagar,MTL R,ThirunagarMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Suriya,CTL,SuriyaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Tuticorin,MTL R,TuticorinMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thiruppuvanam,MTL R,ThiruppuvanamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Tiruchendur,IGL 1,TiruchendurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Udankudi,MTL R,UdankudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Senkottai,MTL R,SenkottaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Sethur,MTL,SethurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Pettai,MTL R,PettaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Sankarankovil,MTL,SankarankovilMTL,250000,0,225000,,,,,,,,,,
+,,,,,Bhalki,MTL,BhalkiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Chinnamanur,MTL R,ChinnamanurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Muddebihal,MTL,MuddebihalMTL,250000,0,225000,,,,,,,,,,
+,,,,,Khagaznagar,CTL,KhagaznagarCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Arumuganeri,IGL 2,ArumuganeriIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Cheranmahadevi,MTL R,CheranmahadeviMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Usilampatti,MTL R,UsilampattiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Singampunari,MTL,SingampunariMTL,250000,0,225000,,,,,,,,,,
+,,,,,Adaspur,CTL,AdaspurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Metpally,CTL,MetpallyCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Bihariganj,MTL R,BihariganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Nagercoil,MTL R,NagercoilMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Partur,CTL,ParturCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Melur,MTL,MelurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Mattakadai,IGL 1,MattakadaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Bemetara,IGL 2,BemetaraIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,,Puliyangudi,IGL 2,PuliyangudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Chinnamanur,IGL 2,ChinnamanurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Keeranur,MTL,KeeranurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Cheranmahadevi,IGL 2,CheranmahadeviIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Ramanathapuram,IGL 2,RamanathapuramIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Surandai,IGL 2,SurandaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Chinnamanur,IGL 1,ChinnamanurIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Maharajganj,CTL,MaharajganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Singampunari,MTL R,SingampunariMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Pudukkottai,MTL,PudukkottaiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Sholavandan,MTL R,SholavandanMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Udumalaipettai,MTL R,UdumalaipettaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Aurangabad,CTL,AurangabadCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Turuvekere,MTL,TuruvekereMTL,250000,0,225000,,,,,,,,,,
+,,,,,Kadaladi,IGL 2,KadaladiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Alangulam,IGL 2,AlangulamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kadayanallur,IGL 2,KadayanallurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Srivilliputhur,MTL R,SrivilliputhurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Watrap,MTL R,WatrapMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Ambasamudram,IGL 1,AmbasamudramIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Sethur,IGL 2,SethurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Veeravanallur,IGL 2,VeeravanallurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Manamelkudi,IGL 1,ManamelkudiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thisyanvillai,IGL 2,ThisyanvillaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kadayam,IGL 2,KadayamIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kayathar,IGL 2,KayatharIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Alanganallur,IGL 2,AlanganallurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Mattakadai,IGL 2,MattakadaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Udankudi,IGL 2,UdankudiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Narimedu,IGL 2,NarimeduIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thiruppuvanam,IGL 1,ThiruppuvanamIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Kovilpatty,MTL R,KovilpattyMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Aralvaimozhi,MTL R,AralvaimozhiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Pattukottai,IGL 1,PattukottaiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thiruppathur,MTL,ThiruppathurMTL,250000,0,225000,,,,,,,,,,
+,,,,,Kadayanallur,MTL R,KadayanallurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Bemetara,CTL,BemetaraCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Thiruppathur,MTL R,ThiruppathurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Palayamkottai,MTL R,PalayamkottaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Jangaon,CTL,JangaonCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Kayathar,MTL R,KayatharMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Daltonganj,CTL,DaltonganjCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mattakadai,MTL R,MattakadaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Basmat,CTL,BasmatCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Bhainsdehi,CTL,BhainsdehiCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Keeranur,MTL R,KeeranurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Othakadai,MTL R,OthakadaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,R.s.mangalam,MTL,R.s.mangalamMTL,250000,0,225000,,,,,,,,,,
+,,,,,Arumuganeri,CTL,ArumuganeriCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Kangeyam,MTL R,KangeyamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Puliyangudi,MTL,PuliyangudiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Alangulam,MTL R,AlangulamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Samastipur,MTL R,SamastipurMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Aranthangi,MTL R,AranthangiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Anjugiramam,MTL R,AnjugiramamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Aland,CTL,AlandCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Ratanpur,CTL,RatanpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Kudligi,MTL,KudligiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Kundam,CTL,KundamCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mannargudi,MTL R,MannargudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Pudukkottai,MTL R,PudukkottaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Arumuganeri,MTL R,ArumuganeriMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Pavoorchatram,MTL R,PavoorchatramMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Veeravanallur,MTL R,VeeravanallurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thondi,MTL R,ThondiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thiruverumbur,IGL 2,ThiruverumburIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Batlagundu,IGL 2,BatlagunduIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Aralvaimozhi,IGL 2,AralvaimozhiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Thiruthuraipoondi,IGL 2,ThiruthuraipoondiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Virudhunagar,IGL 2,VirudhunagarIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Aranthangi,IGL 2,AranthangiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Mayiladuthurai,MTL,MayiladuthuraiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Theni,MTL,TheniMTL,250000,0,225000,,,,,,,,,,
+,,,,,Mayiladuthurai,MTL R,MayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Tiruchendur,MTL R,TiruchendurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Thiruverumbur,MTL R,ThiruverumburMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Tharuvai,MTL R,TharuvaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Channagiri,CTL,ChannagiriCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Mehdawal,CTL,MehdawalCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Kudligi,CTL,KudligiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Vijayapura,CTL,VijayapuraCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Kadayam,MTL R,KadayamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Soraba,CTL,SorabaCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Kilakarai,MTL R,KilakaraiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Virudhunagar,MTL R,VirudhunagarMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Valliyur,MTL R,ValliyurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Mehdawal,MTL,MehdawalMTL,200000,0,175000,,,,,,,,,,
+,,,,,,IGL 2,Mt_sivakasiIGL 2,300000,3000,250000,,,,,,,,,,Mt_sivakasi
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL R,JagalurMTL R,300000,0,250000,,,,,,,,,,Jagalur
+,,,,,,MTL,Mt_kadayanallurMTL,250000,0,225000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,ChennurMTL,250000,0,225000,,,,,,,,,,Chennur
+,,,,,,MTL,NarsampetMTL,250000,0,225000,,,,,,,,,,Narsampet
+,,,,,,IGL 2,MiryalagudaIGL 2,300000,3000,250000,,,,,,,,,,Miryalaguda
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL R,Mt_aralvaimozhiMTL R,300000,0,250000,,,,,,,,,,Mt_aralvaimozhi
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_tiruchendurMTL R,300000,0,250000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,IGL 1,Patan mpIGL 1,200000,3000,175000,,,,,,,,,,Patan mp
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL R,Mt_udankudiMTL R,300000,0,250000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_thirunagarMTL R,300000,0,250000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_ramanathapuramMTL,250000,0,225000,,,,,,,,,,Mt_ramanathapuram
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL R,Mt_virudhunagarMTL R,300000,0,250000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_andipattiMTL,250000,0,225000,,,,,,,,,,Mt_andipatti
+,,,,,,MTL R,Mt_thisyanvillaiMTL R,300000,0,250000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL R,Mt_veeravanallurMTL R,300000,0,250000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_pudukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_pudukkottai
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_chinnalapattiMTL,250000,0,225000,,,,,,,,,,Mt_chinnalapatti
+,,,,,,MTL R,Mt_kadayanallurMTL R,300000,0,250000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL R,Mt_kadaladiMTL R,300000,0,250000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL R,Mt_kayatharMTL R,300000,0,250000,,,,,,,,,,Mt_kayathar
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,CTL,Mt_arumuganeriCTL,300000,5000,300000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL R,Mt_nagapattinamMTL R,300000,0,250000,,,,,,,,,,Mt_nagapattinam
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL R,Mt_pudukkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_pudukkottai
+,,,,,,MTL R,Mt_aranthangiMTL R,300000,0,250000,,,,,,,,,,Mt_aranthangi
+,,,,,,MTL,Mt_chinnamanurMTL,250000,0,225000,,,,,,,,,,Mt_chinnamanur
+,,,,,,MTL,Mt_rameshwaramMTL,250000,0,225000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL R,Mt_thingal nagarMTL R,300000,0,250000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_senkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_sithurajapuramMTL R,300000,0,250000,,,,,,,,,,Mt_sithurajapuram
+,,,,,,MTL R,OrathanaduMTL R,300000,0,250000,,,,,,,,,,Orathanadu
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL,Mt_aruppukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_aruppukkottai
+,,,,,,MTL R,Mt_cheranmahadeviMTL R,300000,0,250000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL R,Mt_narimeduMTL R,300000,0,250000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL,Mt_veeravanallurMTL,250000,0,225000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL R,Mt_valliyurMTL R,300000,0,250000,,,,,,,,,,Mt_valliyur
+,,,,,Adaspur,MTL,AdaspurMTL,200000,0,175000,,,,,,,,,,
+,,,,,Hinjilicut,MTL,HinjilicutMTL,200000,0,175000,,,,,,,,,,
+,,,,,Cumbum,IGL 1,CumbumIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Chikodi,CTL,ChikodiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Chalisgaon,CTL,ChalisgaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Pattukottai,IGL 2,PattukottaiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Kovilpatty,IGL 2,KovilpattyIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,,IGL 2,Mt_sivakasiIGL 2,300000,3000,250000,,,,,,,,,,Mt_sivakasi
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_kadayanallurMTL,250000,0,225000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,IGL 2,NalgondaIGL 2,300000,3000,250000,,,,,,,,,,Nalgonda
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL R,Mt_aralvaimozhiMTL R,300000,0,250000,,,,,,,,,,Mt_aralvaimozhi
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_tiruchendurMTL R,300000,0,250000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL R,Mt_thiruppuvanamMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppuvanam
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL R,Mt_virudhunagarMTL R,300000,0,250000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_andipattiMTL,250000,0,225000,,,,,,,,,,Mt_andipatti
+,,,,,,MTL R,Mt_thisyanvillaiMTL R,300000,0,250000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_udankudiMTL R,300000,0,250000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL R,Mt_veeravanallurMTL R,300000,0,250000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_chinnalapattiMTL,250000,0,225000,,,,,,,,,,Mt_chinnalapatti
+,,,,,,MTL R,Mt_kadayanallurMTL R,300000,0,250000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,NarsampetMTL,250000,0,225000,,,,,,,,,,Narsampet
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL R,Mt_nagapattinamMTL R,300000,0,250000,,,,,,,,,,Mt_nagapattinam
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL R,Mt_aranthangiMTL R,300000,0,250000,,,,,,,,,,Mt_aranthangi
+,,,,,,IGL 1,Patan mpIGL 1,200000,3000,175000,,,,,,,,,,Patan mp
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL R,Mt_senkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_sithurajapuramMTL R,300000,0,250000,,,,,,,,,,Mt_sithurajapuram
+,,,,,,MTL,Mt_rameshwaramMTL,250000,0,225000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL,ChennurMTL,250000,0,225000,,,,,,,,,,Chennur
+,,,,,,MTL R,Mt_cheranmahadeviMTL R,300000,0,250000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL R,Mt_valliyurMTL R,300000,0,250000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL R,Mt_kangeyamMTL R,300000,0,250000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL R,Mt_anjugiramamMTL R,300000,0,250000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_cumbumMTL,250000,0,225000,,,,,,,,,,Mt_cumbum
+,,,,,,MTL R,OrathanaduMTL R,300000,0,250000,,,,,,,,,,Orathanadu
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_thiruverumburMTL,250000,0,225000,,,,,,,,,,Mt_thiruverumbur
+,,,,,,IGL 2,Mt_sivakasiIGL 2,300000,3000,250000,,,,,,,,,,Mt_sivakasi
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_kadayanallurMTL,250000,0,225000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,IGL 2,Mt_rameshwaramIGL 2,300000,3000,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,IGL 2,NalgondaIGL 2,300000,3000,250000,,,,,,,,,,Nalgonda
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL R,Mt_aralvaimozhiMTL R,300000,0,250000,,,,,,,,,,Mt_aralvaimozhi
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_tiruchendurMTL R,300000,0,250000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL R,Mt_thiruppuvanamMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppuvanam
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL R,Mt_virudhunagarMTL R,300000,0,250000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_andipattiMTL,250000,0,225000,,,,,,,,,,Mt_andipatti
+,,,,,,MTL R,Mt_thisyanvillaiMTL R,300000,0,250000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_udankudiMTL R,300000,0,250000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL R,Mt_veeravanallurMTL R,300000,0,250000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_chinnalapattiMTL,250000,0,225000,,,,,,,,,,Mt_chinnalapatti
+,,,,,,MTL R,Mt_kadayanallurMTL R,300000,0,250000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,NarsampetMTL,250000,0,225000,,,,,,,,,,Narsampet
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL R,Mt_nagapattinamMTL R,300000,0,250000,,,,,,,,,,Mt_nagapattinam
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL R,Mt_aranthangiMTL R,300000,0,250000,,,,,,,,,,Mt_aranthangi
+,,,,,,IGL 1,Patan mpIGL 1,200000,3000,175000,,,,,,,,,,Patan mp
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL R,Mt_senkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_sithurajapuramMTL R,300000,0,250000,,,,,,,,,,Mt_sithurajapuram
+,,,,,,MTL,Mt_rameshwaramMTL,250000,0,225000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL,ChennurMTL,250000,0,225000,,,,,,,,,,Chennur
+,,,,,,MTL R,Mt_cheranmahadeviMTL R,300000,0,250000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL R,Mt_valliyurMTL R,300000,0,250000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL R,Mt_kangeyamMTL R,300000,0,250000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_eralMTL,250000,0,225000,,,,,,,,,,Mt_eral
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL R,Mt_anjugiramamMTL R,300000,0,250000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL,Mt_cumbumMTL,250000,0,225000,,,,,,,,,,Mt_cumbum
+,,,,,,MTL R,OrathanaduMTL R,300000,0,250000,,,,,,,,,,Orathanadu
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_thiruverumburMTL,250000,0,225000,,,,,,,,,,Mt_thiruverumbur
+,,,,,Indi,CTL,IndiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Rameshwaram,MTL R,RameshwaramMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Washim,MTL,WashimMTL,200000,0,175000,,,,,,,,,,
+,,,,,Thirukoilure,MTL R,ThirukoilureMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Sankarankovil,MTL R,SankarankovilMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Puliyangudi,MTL R,PuliyangudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Paramakudi,MTL,ParamakudiMTL,250000,0,225000,,,,,,,,,,
+,,,,,Thiruvarur,MTL R,ThiruvarurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Narimedu,CTL,NarimeduCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Pattukottai,MTL R,PattukottaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Surandai,MTL R,SurandaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Turuvekere,CTL,TuruvekereCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Triveniganj,MTL R,TriveniganjMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Balia,MTL,BaliaMTL,200000,0,175000,,,,,,,,,,
+,,,,,Eral,IGL 2,EralIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Chinnalapatti,IGL 1,ChinnalapattiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Thondi,IGL 2,ThondiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Tiruchendur,IGL 2,TiruchendurIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Eral,MTL R,EralMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Othakadai,CTL,OthakadaiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Ramanathapura,CTL,RamanathapuraCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Metpally,MTL R,MetpallyMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Bhawnathpur,CTL,BhawnathpurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Jagalur,CTL,JagalurCTL,300000,5000,300000,,,,,,,,,,
+,,,,,,MTL R,OrathanaduMTL R,300000,0,250000,,,,,,,,,,Orathanadu
+,,,,,,IGL 2,Mt_sivakasiIGL 2,300000,3000,250000,,,,,,,,,,Mt_sivakasi
+,,,,,,IGL 2,MiryalagudaIGL 2,300000,3000,250000,,,,,,,,,,Miryalaguda
+,,,,,,MTL,Mt_virudhunagarMTL,250000,0,225000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_kadayanallurMTL,250000,0,225000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,Mt_cheranmahadeviMTL,250000,0,225000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,NarsampetMTL,250000,0,225000,,,,,,,,,,Narsampet
+,,,,,,IGL 2,MetpallyIGL 2,300000,3000,250000,,,,,,,,,,Metpally
+,,,,,,MTL,Mt_vilathikulamMTL,250000,0,225000,,,,,,,,,,Mt_vilathikulam
+,,,,,,MTL,Mt_mattakadaiMTL,250000,0,225000,,,,,,,,,,Mt_mattakadai
+,,,,,,IGL 2,AmangalIGL 2,300000,3000,250000,,,,,,,,,,Amangal
+,,,,,,IGL 2,NalgondaIGL 2,300000,3000,250000,,,,,,,,,,Nalgonda
+,,,,,,MTL,Mt_valliyurMTL,250000,0,225000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL,Mt_pavoorchatramMTL,250000,0,225000,,,,,,,,,,Mt_pavoorchatram
+,,,,,,MTL,Mt_sethurMTL,250000,0,225000,,,,,,,,,,Mt_sethur
+,,,,,,MTL R,Mt_aralvaimozhiMTL R,300000,0,250000,,,,,,,,,,Mt_aralvaimozhi
+,,,,,,MTL,Mt_thisyanvillaiMTL,250000,0,225000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL,Mt_narimeduMTL,250000,0,225000,,,,,,,,,,Mt_narimedu
+,,,,,,MTL,Mt_palayamkottaiMTL,250000,0,225000,,,,,,,,,,Mt_palayamkottai
+,,,,,,MTL,Mt_nagercoilMTL,250000,0,225000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL,Mt_thirunagarMTL,250000,0,225000,,,,,,,,,,Mt_thirunagar
+,,,,,,MTL R,Mt_nagercoilMTL R,300000,0,250000,,,,,,,,,,Mt_nagercoil
+,,,,,,MTL R,Mt_mayiladuthuraiMTL R,300000,0,250000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL,Mt_thingal nagarMTL,250000,0,225000,,,,,,,,,,Mt_thingal nagar
+,,,,,,MTL R,Mt_tiruchendurMTL R,300000,0,250000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_puliyangudiMTL,250000,0,225000,,,,,,,,,,Mt_puliyangudi
+,,,,,,MTL,Mt_udankudiMTL,250000,0,225000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL,Mt_kangeyamMTL,250000,0,225000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL R,Mt_thiruvarurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruvarur
+,,,,,,MTL,Mt_arumuganeriMTL,250000,0,225000,,,,,,,,,,Mt_arumuganeri
+,,,,,,MTL,Mt_theniMTL,250000,0,225000,,,,,,,,,,Mt_theni
+,,,,,,MTL,Mt_anjugiramamMTL,250000,0,225000,,,,,,,,,,Mt_anjugiramam
+,,,,,,MTL R,Mt_thisyanvillaiMTL R,300000,0,250000,,,,,,,,,,Mt_thisyanvillai
+,,,,,,MTL R,Mt_virudhunagarMTL R,300000,0,250000,,,,,,,,,,Mt_virudhunagar
+,,,,,,MTL,Mt_thiruthuraipoondiMTL,250000,0,225000,,,,,,,,,,Mt_thiruthuraipoondi
+,,,,,,MTL,Mt_tharuvaiMTL,250000,0,225000,,,,,,,,,,Mt_tharuvai
+,,,,,,MTL,Mt_manamelkudiMTL,250000,0,225000,,,,,,,,,,Mt_manamelkudi
+,,,,,,MTL R,Mt_thiruppuvanamMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppuvanam
+,,,,,,MTL R,Mt_sholavandanMTL R,300000,0,250000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL,Mt_tiruchendurMTL,250000,0,225000,,,,,,,,,,Mt_tiruchendur
+,,,,,,MTL,Mt_andipattiMTL,250000,0,225000,,,,,,,,,,Mt_andipatti
+,,,,,,MTL,Mt_senkottaiMTL,250000,0,225000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL R,Mt_udankudiMTL R,300000,0,250000,,,,,,,,,,Mt_udankudi
+,,,,,,MTL R,Mt_thiruppathurMTL R,300000,0,250000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL,Mt_thiruppathurMTL,250000,0,225000,,,,,,,,,,Mt_thiruppathur
+,,,,,,MTL R,Mt_veeravanallurMTL R,300000,0,250000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL,Mt_kochadaiMTL,250000,0,225000,,,,,,,,,,Mt_kochadai
+,,,,,,IGL 1,Patan mpIGL 1,200000,3000,175000,,,,,,,,,,Patan mp
+,,,,,,MTL,Mt_kadayamMTL,250000,0,225000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_kadaladiMTL,250000,0,225000,,,,,,,,,,Mt_kadaladi
+,,,,,,MTL,Mt_tuticorinMTL,250000,0,225000,,,,,,,,,,Mt_tuticorin
+,,,,,,MTL,Mt_chinnalapattiMTL,250000,0,225000,,,,,,,,,,Mt_chinnalapatti
+,,,,,,MTL R,Mt_kadayanallurMTL R,300000,0,250000,,,,,,,,,,Mt_kadayanallur
+,,,,,,MTL,Mt_sankarankovilMTL,250000,0,225000,,,,,,,,,,Mt_sankarankovil
+,,,,,,MTL R,Mt_watrapMTL R,300000,0,250000,,,,,,,,,,Mt_watrap
+,,,,,,MTL,Mt_mannargudiMTL,250000,0,225000,,,,,,,,,,Mt_mannargudi
+,,,,,,MTL R,Mt_aranthangiMTL R,300000,0,250000,,,,,,,,,,Mt_aranthangi
+,,,,,,MTL,Mt_surandaiMTL,250000,0,225000,,,,,,,,,,Mt_surandai
+,,,,,,MTL R,Mt_senkottaiMTL R,300000,0,250000,,,,,,,,,,Mt_senkottai
+,,,,,,MTL,Mt_rameshwaramMTL,250000,0,225000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL R,Mt_cheranmahadeviMTL R,300000,0,250000,,,,,,,,,,Mt_cheranmahadevi
+,,,,,,MTL,Mt_udumalaipettaiMTL,250000,0,225000,,,,,,,,,,Mt_udumalaipettai
+,,,,,,MTL,Mt_sholavandanMTL,250000,0,225000,,,,,,,,,,Mt_sholavandan
+,,,,,,MTL R,Mt_valliyurMTL R,300000,0,250000,,,,,,,,,,Mt_valliyur
+,,,,,,MTL,Mt_singampunariMTL,250000,0,225000,,,,,,,,,,Mt_singampunari
+,,,,,,MTL,Mt_thiruverumburMTL,250000,0,225000,,,,,,,,,,Mt_thiruverumbur
+,,,,,,MTL R,Mt_thiruverumburMTL R,300000,0,250000,,,,,,,,,,Mt_thiruverumbur
+,,,,,,MTL R,Mt_rameshwaramMTL R,300000,0,250000,,,,,,,,,,Mt_rameshwaram
+,,,,,,MTL R,Mt_kangeyamMTL R,300000,0,250000,,,,,,,,,,Mt_kangeyam
+,,,,,,MTL,Mt_pudukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_pudukkottai
+,,,,,,MTL R,Mt_pattukottaiMTL R,300000,0,250000,,,,,,,,,,Mt_pattukottai
+,,,,,,MTL,Mt_mayiladuthuraiMTL,250000,0,225000,,,,,,,,,,Mt_mayiladuthurai
+,,,,,,MTL R,Mt_surandaiMTL R,300000,0,250000,,,,,,,,,,Mt_surandai
+,,,,,,MTL R,Mt_kadayamMTL R,300000,0,250000,,,,,,,,,,Mt_kadayam
+,,,,,,MTL,Mt_ambasamudramMTL,250000,0,225000,,,,,,,,,,Mt_ambasamudram
+,,,,,,MTL R,Mt_paramakudiMTL R,300000,0,250000,,,,,,,,,,Mt_paramakudi
+,,,,,,MTL R,Mt_ramanathapuramMTL R,300000,0,250000,,,,,,,,,,Mt_ramanathapuram
+,,,,,,MTL,Mt_ramanathapuramMTL,250000,0,225000,,,,,,,,,,Mt_ramanathapuram
+,,,,,,MTL,Mt_aruppukkottaiMTL,250000,0,225000,,,,,,,,,,Mt_aruppukkottai
+,,,,,,MTL,Mt_veeravanallurMTL,250000,0,225000,,,,,,,,,,Mt_veeravanallur
+,,,,,,MTL R,Mt_kayatharMTL R,300000,0,250000,,,,,,,,,,Mt_kayathar
+,,,,,,MTL,Mt_alangulamMTL,250000,0,225000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL R,Mt_pettaiMTL R,300000,0,250000,,,,,,,,,,Mt_pettai
+,,,,,,MTL,Mt_batlagunduMTL,250000,0,225000,,,,,,,,,,Mt_batlagundu
+,,,,,,MTL R,Mt_alangulamMTL R,300000,0,250000,,,,,,,,,,Mt_alangulam
+,,,,,,MTL R,JagalurMTL R,300000,0,250000,,,,,,,,,,Jagalur
+,,,,,Triveniganj,MTL,TriveniganjMTL,200000,0,175000,,,,,,,,,,
+,,,,,Andipatti,IGL 2,AndipattiIGL 2,300000,3000,250000,,,,,,,,,,
+,,,,,Manamadurai,IGL 1,ManamaduraiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Raxaul,CTL,RaxaulCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Nagapattinam,MTL R,NagapattinamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Dharapuram,CTL,DharapuramCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Sonbarsa,MTL R,SonbarsaMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Bemetara,MTL R,BemetaraMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Kotpad,CTL,KotpadCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mahoba,MTL,MahobaMTL,200000,0,175000,,,,,,,,,,
+,,,,,Garhwa,CTL,GarhwaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Sethur,MTL R,SethurMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Kalanwali,IGL 2,KalanwaliIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,,Viluppuram,MTL R,ViluppuramMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Kochadai,MTL R,KochadaiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Ramanathapuram,MTL R,RamanathapuramMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Balangir,MTL R,BalangirMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Batlagundu,MTL R,BatlagunduMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Theni,MTL R,TheniMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Nanpara,MTL,NanparaMTL,200000,0,175000,,,,,,,,,,
+,,,,,Thondi,IGL 1,ThondiIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Shorapur,CTL,ShorapurCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Narimedu,IGL 1,NarimeduIGL 1,250000,3000,225000,,,,,,,,,,
+,,,,,Vilathikulam,MTL R,VilathikulamMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Kodala,MTL R,KodalaMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Dhule,CTL,DhuleCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Bhanjanagar,CTL,BhanjanagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mayiladuthurai,CTL,MayiladuthuraiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Alangudi,MTL R,AlangudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Hospet,CTL,HospetCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Deori,CTL,DeoriCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Rameshwaram,CTL,RameshwaramCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Rona,CTL,RonaCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Barhi,CTL,BarhiCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Mahnar,CTL,MahnarCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Koppal,CTL,KoppalCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Ambasamudram,MTL R,AmbasamudramMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Gangapur,CTL,GangapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Kanti,CTL,KantiCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Gariaband,CTL,GariabandCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Belagavi,CTL,BelagaviCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Bagalkote,CTL,BagalkoteCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Lalitpur,MTL,LalitpurMTL,200000,0,175000,,,,,,,,,,
+,,,,,Marhaura,MTL R,MarhauraMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Champa,CTL,ChampaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Bah,IGL 2,BahIGL 2,250000,3000,200000,,,,,,,,,,
+,,,,,Rajnandgaon,CTL,RajnandgaonCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Kadaladi,CTL,KadaladiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Ayodhya,MTL R,AyodhyaMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Bashkhari,MTL,BashkhariMTL,200000,0,175000,,,,,,,,,,
+,,,,,Runnisaidpur,MTL,RunnisaidpurMTL,200000,0,175000,,,,,,,,,,
+,,,,,Hisar,MTL R,HisarMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Omerga,CTL,OmergaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Baihar,CTL,BaiharCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Haveri,CTL,HaveriCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Banaso,CTL,BanasoCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Kamakhyanagar,CTL,KamakhyanagarCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Chittaguppa,CTL,ChittaguppaCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Thiruthuraipoondi,CTL,ThiruthuraipoondiCTL,300000,5000,300000,,,,,,,,,,
+,,,,,Saharsa,CTL,SaharsaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Paramakudi,MTL R,ParamakudiMTL R,300000,0,250000,,,,,,,,,,
+,,,,,Tamkuhiraj,CTL,TamkuhirajCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Chandi,CTL,ChandiCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Badnapur,CTL,BadnapurCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Jamua,CTL,JamuaCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Chatra,CTL,ChatraCTL,250000,5000,250000,,,,,,,,,,
+,,,,,Talbehat,MTL,TalbehatMTL,200000,0,175000,,,,,,,,,,
+,,,,,Moth,MTL R,MothMTL R,250000,0,200000,,,,,,,,,,
+,,,,,Moth,MTL,MothMTL,200000,0,175000,,,,,,,,,,
+,,,,,Japla,CTL,JaplaCTL,250000,5000,250000,,,,,,,,,,
